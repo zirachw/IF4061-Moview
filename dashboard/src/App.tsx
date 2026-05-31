@@ -126,7 +126,7 @@ export default function App() {
 
   useEffect(() => {
     if (showAbout) {
-      const y = window.scrollY
+      const y = sceneStartY()
       document.body.style.position = 'fixed'
       document.body.style.top = `-${y}px`
       document.body.style.width = '100%'
