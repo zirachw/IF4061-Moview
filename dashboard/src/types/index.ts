@@ -167,7 +167,7 @@ export interface AppData {
   countriesGeo: CountryFeatureCollection
   kpi: MetricAgg[]
   kpiTiles: KpiTileEntry[]
-  kpiTileShard: { scope_type: Exclude<ScopeType, 'country'>; scope_id: string } | null
+  kpiTileShard: { scope_type: ScopeType; scope_id: string } | null
   kpiLanguage: KpiLanguageEntry[]
   genreAgg: GenreAggEntry[]
   financialAgg: FinancialAggEntry[]

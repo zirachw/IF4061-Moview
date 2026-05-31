@@ -23,7 +23,7 @@ const KPI_TILES_DEBOUNCE_MS = 300
 
 const EMPTY_COUNTRIES: CountryFeatureCollection = { type: 'FeatureCollection', features: [] }
 
-type ShardScopeType = Exclude<ScopeType, 'country'>
+type ShardScopeType = ScopeType
 
 function fetchJson<T>(url: string): Promise<T> {
   return fetch(url).then(r => {

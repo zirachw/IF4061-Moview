@@ -4,7 +4,7 @@ import * as d3 from 'd3'
 import type { AppData, FilterState } from '../../types'
 import { filterAgg, genreColor } from '../../utils/chartHelpers'
 import { useKeywords } from '../../hooks/useData'
-import { getShardScope } from '../../hooks/useFilter'
+import { getScope } from '../../hooks/useFilter'
 import ChartPanel from '../ui/ChartPanel'
 
 interface Props { data: AppData; filter: FilterState }
@@ -35,7 +35,7 @@ export default function WordCloud({ data, filter }: Props) {
     setSelectedGenre(genres[0] ?? null)
   }, [genres])
 
-  const { scope_type, scope_id } = getShardScope(filter)
+  const { scope_type, scope_id } = getScope(filter)
   const keywordRows = useKeywords(scope_type, scope_id, selectedGenre)
 
   const words = useMemo<Word[]>(() => {

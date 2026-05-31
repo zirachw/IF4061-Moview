@@ -5,7 +5,6 @@ import {
   clampYearRange,
   getYearBoundsForScope,
   getScope,
-  getShardScope,
 } from './hooks/useFilter'
 import { useData } from './hooks/useData'
 
@@ -85,8 +84,7 @@ export default function App() {
 
   const { scope_type, scope_id } = getScope(filter)
   const selectedScopeKey = `${scope_type}:${scope_id}`
-  const { scope_type: shard_type, scope_id: shard_id } = getShardScope(filter)
-  const data = useData(shard_type, shard_id, filter.yearRange)
+  const data = useData(scope_type, scope_id, filter.yearRange)
 
   useEffect(() => {
     if (!filter.country) setCountryDisplayName(null)

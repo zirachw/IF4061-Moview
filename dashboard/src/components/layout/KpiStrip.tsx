@@ -1,11 +1,11 @@
 import { useMemo } from 'react'
-import type { FilterState, GeoEntry, KpiTileEntry, TabId } from '../../types'
-import { getScope, getShardScope } from '../../hooks/useFilter'
+import type { FilterState, GeoEntry, KpiTileEntry, ScopeType, TabId } from '../../types'
+import { getScope } from '../../hooks/useFilter'
 
 interface Props {
   activeTab: TabId
   kpiTiles: KpiTileEntry[]
-  kpiTileShard: ReturnType<typeof getShardScope> | null
+  kpiTileShard: { scope_type: ScopeType; scope_id: string } | null
   filter: FilterState
   onFilterChange: (f: FilterState) => void
   geo: GeoEntry[]
@@ -112,10 +112,9 @@ export default function KpiStrip({
   const [yMin, yMax] = filter.yearRange
   const [yearMin, yearMax] = yearBounds
   const scope = getScope(filter)
-  const shard = getShardScope(filter)
   const kpiShardMatchesSelection =
-    kpiTileShard?.scope_type === shard.scope_type &&
-    kpiTileShard.scope_id === shard.scope_id
+    kpiTileShard?.scope_type === scope.scope_type &&
+    kpiTileShard.scope_id === scope.scope_id
 
   const allYears = useMemo(
     () => Array.from({ length: yearMax - yearMin + 1 }, (_, i) => yearMin + i),
@@ -139,8 +138,8 @@ export default function KpiStrip({
     () => {
       if (!kpiShardMatchesSelection) return null
       const candidates = kpiTiles.filter(row =>
-        row.scope_type === shard.scope_type &&
-        row.scope_id === shard.scope_id &&
+        row.scope_type === scope.scope_type &&
+        row.scope_id === scope.scope_id &&
         row.tab === activeTab
       )
       return candidates.find(row =>
