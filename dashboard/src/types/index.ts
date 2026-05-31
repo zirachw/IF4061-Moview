@@ -154,9 +154,10 @@ export interface Manifest {
   generated_at: string
   year_min: number
   year_max: number
-  scopes: Array<{ scope_type: ScopeType; scope_id: string; path: string }>
-  scope_files: string[]
+  db?: string
   core_files: string[]
+  scopes?: Array<{ scope_type: ScopeType; scope_id: string; path: string }>
+  scope_files?: string[]
 }
 
 export interface AppData {

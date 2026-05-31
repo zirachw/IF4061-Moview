@@ -14,54 +14,40 @@ import type {
   KeywordAggEntry,
   TopMovieEntry,
   ScopeType,
+  TabId,
 } from '../types'
 
 const DATA = '/data'
+const API  = '/api'
+const KPI_TILES_DEBOUNCE_MS = 300
 
 const EMPTY_COUNTRIES: CountryFeatureCollection = { type: 'FeatureCollection', features: [] }
 
-const EMPTY_SCOPED = {
-  genreAgg:     [] as GenreAggEntry[],
-  financialAgg: [] as FinancialAggEntry[],
-  peopleAgg:    [] as PeopleAggEntry[],
-  genrePairAgg: [] as GenrePairAggEntry[],
-  keywordAgg:   [] as KeywordAggEntry[],
-  topMovies:    [] as TopMovieEntry[],
-}
+type ShardScopeType = Exclude<ScopeType, 'country'>
 
-const EMPTY_SCOPED_KPI = {
-  kpiTiles: [] as KpiTileEntry[],
-  shard: null,
-}
-
-function fetchJson<T>(path: string): Promise<T> {
-  return fetch(path).then(r => {
-    if (!r.ok) throw new Error(`${path} returned ${r.status}`)
+function fetchJson<T>(url: string): Promise<T> {
+  return fetch(url).then(r => {
+    if (!r.ok) throw new Error(`${url} returned ${r.status}`)
     return r.json() as Promise<T>
   })
 }
 
-function scopeSlug(id: string): string {
-  return id.replace(/ /g, '_').replace(/\//g, '_')
-}
-
-type ShardScopeType = Exclude<ScopeType, 'country'>
-
-function scopeBasePath(scopeType: ShardScopeType, scopeId: string): string {
-  if (scopeType === 'world') return `${DATA}/scope/world`
-  return `${DATA}/scope/${scopeType}/${scopeSlug(scopeId)}`
+function apiUrl(endpoint: string, params: Record<string, string | number>): string {
+  const qs = new URLSearchParams(
+    Object.fromEntries(Object.entries(params).map(([k, v]) => [k, String(v)])),
+  ).toString()
+  return `${API}/${endpoint}?${qs}`
 }
 
 // ---------------------------------------------------------------------------
-// Core layer — loaded once at module level
+// Core layer — static assets + world kpi (loaded once)
 // ---------------------------------------------------------------------------
 interface CoreData {
-  manifest: Manifest
-  geo: GeoEntry[]
-  countriesGeo: CountryFeatureCollection
-  kpi: MetricAgg[]
-  kpiTiles: KpiTileEntry[]
-  kpiLanguage: KpiLanguageEntry[]
+  manifest:         Manifest
+  geo:              GeoEntry[]
+  countriesGeo:     CountryFeatureCollection
+  worldKpi:         MetricAgg[]
+  worldKpiLanguage: KpiLanguageEntry[]
 }
 
 let corePromise: Promise<CoreData> | null = null
@@ -71,117 +57,114 @@ function loadCore(): Promise<CoreData> {
     fetchJson<Manifest>(`${DATA}/manifest.json`),
     fetchJson<GeoEntry[]>(`${DATA}/geo_summary.json`),
     fetchJson<CountryFeatureCollection>(`${DATA}/countries.geojson`),
-    fetchJson<MetricAgg[]>(`${DATA}/kpi.json`),
-    fetchJson<KpiTileEntry[]>(`${DATA}/kpi_tiles.json`),
-    fetchJson<KpiLanguageEntry[]>(`${DATA}/kpi_language.json`),
-  ]).then(([manifest, geo, countriesGeo, kpi, kpiTiles, kpiLanguage]) => ({
-    manifest, geo, countriesGeo, kpi, kpiTiles, kpiLanguage,
+    fetchJson<MetricAgg[]>(apiUrl('kpi', { scope_type: 'world', scope_id: 'WORLD' })),
+    fetchJson<KpiLanguageEntry[]>(apiUrl('kpi-language', { scope_type: 'world', scope_id: 'WORLD' })),
+  ]).then(([manifest, geo, countriesGeo, worldKpi, worldKpiLanguage]) => ({
+    manifest, geo, countriesGeo, worldKpi, worldKpiLanguage,
   }))
   return corePromise
 }
 
 // ---------------------------------------------------------------------------
-// Scoped layer — cached per scope key
+// Scoped layer — per-scope data, cached by key
 // ---------------------------------------------------------------------------
 interface ScopedData {
-  genreAgg:     GenreAggEntry[]
-  financialAgg: FinancialAggEntry[]
-  peopleAgg:    PeopleAggEntry[]
-  genrePairAgg: GenrePairAggEntry[]
-  keywordAgg:   KeywordAggEntry[]
-  topMovies:    TopMovieEntry[]
+  scopedKpi:         MetricAgg[]
+  scopedKpiLanguage: KpiLanguageEntry[]
+  genreAgg:          GenreAggEntry[]
+  financialAgg:      FinancialAggEntry[]
+  peopleAgg:         PeopleAggEntry[]
+  genrePairAgg:      GenrePairAggEntry[]
+  topMovies:         TopMovieEntry[]
 }
 
-interface ScopedKpiData {
-  kpiTiles: KpiTileEntry[]
-  shard: {
-    scope_type: ShardScopeType
-    scope_id: string
-  } | null
+const EMPTY_SCOPED: ScopedData = {
+  scopedKpi:         [],
+  scopedKpiLanguage: [],
+  genreAgg:          [],
+  financialAgg:      [],
+  peopleAgg:         [],
+  genrePairAgg:      [],
+  topMovies:         [],
 }
 
 const scopeCache = new Map<string, Promise<ScopedData>>()
-const scopeKpiCache = new Map<string, Promise<ScopedKpiData>>()
-const scopeKpiResolved = new Map<string, ScopedKpiData>()
 
 function scopeKey(scopeType: ShardScopeType, scopeId: string) {
   return `${scopeType}:${scopeId}`
 }
 
-function loadScopedKpis(scopeType: ShardScopeType, scopeId: string): Promise<ScopedKpiData> {
+function loadScoped(scopeType: ShardScopeType, scopeId: string): Promise<ScopedData> {
   const key = scopeKey(scopeType, scopeId)
-  if (!scopeKpiCache.has(key)) {
-    const base = scopeBasePath(scopeType, scopeId)
-    scopeKpiCache.set(
-      key,
-      fetchJson<KpiTileEntry[]>(`${base}/kpi_tiles.json`)
-        .then(kpiTiles => {
-          const result: ScopedKpiData = { kpiTiles, shard: { scope_type: scopeType, scope_id: scopeId } }
-          scopeKpiResolved.set(key, result)
-          return result
-        })
-        .catch(error => {
-          scopeKpiCache.delete(key)
-          throw error
-        }),
-    )
-  }
-  return scopeKpiCache.get(key)!
-}
+  if (scopeCache.has(key)) return scopeCache.get(key)!
 
-function loadScopedDetails(scopeType: ShardScopeType, scopeId: string): Promise<ScopedData> {
-  const key = `${scopeType}:${scopeId}`
-  if (!scopeCache.has(key)) {
-    const base = scopeBasePath(scopeType, scopeId)
-    scopeCache.set(
-      key,
-      Promise.all([
-        fetchJson<GenreAggEntry[]>(`${base}/genre_agg.json`),
-        fetchJson<FinancialAggEntry[]>(`${base}/financial_agg.json`),
-        fetchJson<PeopleAggEntry[]>(`${base}/people_agg.json`),
-        fetchJson<GenrePairAggEntry[]>(`${base}/genre_pair_agg.json`),
-        fetchJson<KeywordAggEntry[]>(`${base}/keyword_agg.json`),
-        fetchJson<TopMovieEntry[]>(`${base}/top_movies.json`),
-      ])
-        .then(([genreAgg, financialAgg, peopleAgg, genrePairAgg, keywordAgg, topMovies]) => ({
-          genreAgg, financialAgg, peopleAgg, genrePairAgg, keywordAgg, topMovies,
-        }))
-        .catch(error => {
-          scopeCache.delete(key)
-          throw error
-        }),
-    )
-  }
-  return scopeCache.get(key)!
+  const base = { scope_type: scopeType, scope_id: scopeId }
+  const isWorld = scopeType === 'world'
+
+  const p = Promise.all([
+    isWorld ? Promise.resolve([] as MetricAgg[])        : fetchJson<MetricAgg[]>(apiUrl('kpi', base)),
+    isWorld ? Promise.resolve([] as KpiLanguageEntry[]) : fetchJson<KpiLanguageEntry[]>(apiUrl('kpi-language', base)),
+    fetchJson<GenreAggEntry[]>(apiUrl('genre', base)),
+    fetchJson<FinancialAggEntry[]>(apiUrl('financial', base)),
+    fetchJson<PeopleAggEntry[]>(apiUrl('people', base)),
+    fetchJson<GenrePairAggEntry[]>(apiUrl('genre-pairs', base)),
+    fetchJson<TopMovieEntry[]>(apiUrl('top-movies', base)),
+  ]).then(([scopedKpi, scopedKpiLanguage, genreAgg, financialAgg, peopleAgg, genrePairAgg, topMovies]) => ({
+    scopedKpi, scopedKpiLanguage, genreAgg, financialAgg, peopleAgg, genrePairAgg, topMovies,
+  })).catch(err => {
+    scopeCache.delete(key)
+    throw err
+  })
+
+  scopeCache.set(key, p)
+  return p
 }
 
 // ---------------------------------------------------------------------------
-// Hook
+// kpi-tiles — fetch all 4 tabs in parallel for a given scope + year range
 // ---------------------------------------------------------------------------
-export function useData(scopeType: ShardScopeType, scopeId: string): AppData {
-  const [core, setCore] = useState<CoreData | null>(null)
-  const [scoped, setScoped] = useState<ScopedData>(EMPTY_SCOPED)
-  const [scopedKpi, setScopedKpi] = useState<ScopedKpiData>(EMPTY_SCOPED_KPI)
-  const [coreError, setCoreError] = useState<string | null>(null)
+const TABS: TabId[] = ['popularity', 'financial', 'genre', 'people']
+
+function fetchKpiTiles(
+  scopeType: ShardScopeType,
+  scopeId: string,
+  fromYear: number,
+  toYear: number,
+): Promise<KpiTileEntry[]> {
+  const base = { scope_type: scopeType, scope_id: scopeId, from_year: fromYear, to_year: toYear }
+  return Promise.all(TABS.map(tab => fetchJson<KpiTileEntry>(apiUrl('kpi-tiles', { ...base, tab }))))
+}
+
+// ---------------------------------------------------------------------------
+// Main hook
+// ---------------------------------------------------------------------------
+export function useData(
+  scopeType: ShardScopeType,
+  scopeId: string,
+  yearRange: [number, number],
+): AppData {
+  const [core, setCore]               = useState<CoreData | null>(null)
+  const [scoped, setScoped]           = useState<ScopedData>(EMPTY_SCOPED)
+  const [kpiTiles, setKpiTiles]       = useState<KpiTileEntry[]>([])
+  const [kpiTileShard, setKpiTileShard] =
+    useState<{ scope_type: ShardScopeType; scope_id: string } | null>(null)
+  const [coreError, setCoreError]     = useState<string | null>(null)
   const [scopeLoading, setScopeLoading] = useState(true)
-  const scopeInStateRef = useRef<string | null>(null)
+  const scopeInStateRef  = useRef<string | null>(null)
+  const tilesDebounceRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   // Layer 1 — core, once
   useEffect(() => {
     let cancelled = false
     loadCore()
-      .then(c => { if (!cancelled) setCore(c) })
-      .catch(err => { if (!cancelled) setCoreError(String(err)) })
+      .then(c  => { if (!cancelled) setCore(c) })
+      .catch(e => { if (!cancelled) setCoreError(String(e)) })
     return () => { cancelled = true }
   }, [])
 
-  // Layer 2 — scoped, on scope change.
-  // No scopeRef guard here — scopeCache handles deduplication so the promise
-  // is never re-fetched; removing the guard lets the effect survive Strict Mode's
-  // double-invocation (run → cancel → run) without silently skipping the load.
+  // Layer 2 — scoped data, on scope change
   useEffect(() => {
     const key = scopeKey(scopeType, scopeId)
-
     if (scopeInStateRef.current === key) {
       setScopeLoading(false)
       return
@@ -189,20 +172,11 @@ export function useData(scopeType: ShardScopeType, scopeId: string): AppData {
 
     let cancelled = false
     setScopeLoading(true)
+    // Clear tiles immediately so KpiStrip shows loading state for new scope
+    setKpiTiles([])
+    setKpiTileShard(null)
 
-    const cachedKpi = scopeKpiResolved.get(key)
-    if (cachedKpi) {
-      setScopedKpi(cachedKpi)
-    } else {
-      setScopedKpi(EMPTY_SCOPED_KPI)
-      loadScopedKpis(scopeType, scopeId)
-        .then(s => {
-          if (!cancelled) setScopedKpi(s)
-        })
-        .catch(() => { if (!cancelled) setScopedKpi(EMPTY_SCOPED_KPI) })
-    }
-
-    loadScopedDetails(scopeType, scopeId)
+    loadScoped(scopeType, scopeId)
       .then(s => {
         if (!cancelled) {
           setScoped(s)
@@ -211,21 +185,89 @@ export function useData(scopeType: ShardScopeType, scopeId: string): AppData {
         }
       })
       .catch(() => { if (!cancelled) setScopeLoading(false) })
+
     return () => { cancelled = true }
   }, [scopeType, scopeId])
+
+  // Layer 3 — kpi-tiles, debounced
+  // Stale tiles stay visible during year-drag debounce (no loading flash).
+  // Scope changes clear tiles immediately (effect above), then this re-fetches.
+  useEffect(() => {
+    const [fromYear, toYear] = yearRange
+    let cancelled = false
+
+    if (tilesDebounceRef.current !== null) clearTimeout(tilesDebounceRef.current)
+
+    tilesDebounceRef.current = setTimeout(() => {
+      tilesDebounceRef.current = null
+      fetchKpiTiles(scopeType, scopeId, fromYear, toYear)
+        .then(tiles => {
+          if (!cancelled) {
+            setKpiTiles(tiles)
+            setKpiTileShard({ scope_type: scopeType, scope_id: scopeId })
+          }
+        })
+        .catch(() => {})
+    }, KPI_TILES_DEBOUNCE_MS)
+
+    return () => {
+      cancelled = true
+      if (tilesDebounceRef.current !== null) {
+        clearTimeout(tilesDebounceRef.current)
+        tilesDebounceRef.current = null
+      }
+    }
+  // yearRange[0]/[1] used instead of the array ref to avoid spurious re-runs
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [scopeType, scopeId, yearRange[0], yearRange[1]])
+
+  const kpi = core
+    ? scopeType === 'world' ? core.worldKpi : [...core.worldKpi, ...scoped.scopedKpi]
+    : []
+
+  const kpiLanguage = core
+    ? scopeType === 'world' ? core.worldKpiLanguage : [...core.worldKpiLanguage, ...scoped.scopedKpiLanguage]
+    : []
 
   return {
     movies:       [],
     manifest:     core?.manifest ?? null,
     geo:          core?.geo ?? [],
     countriesGeo: core?.countriesGeo ?? EMPTY_COUNTRIES,
-    kpi:          core?.kpi ?? [],
-    kpiLanguage:  core?.kpiLanguage ?? [],
-    ...scoped,
-    kpiTiles:     scopedKpi.kpiTiles.length ? scopedKpi.kpiTiles : core?.kpiTiles ?? [],
-    kpiTileShard: scopedKpi.kpiTiles.length ? scopedKpi.shard : core ? { scope_type: 'world', scope_id: 'WORLD' } : null,
+    kpi,
+    kpiLanguage,
+    genreAgg:     scoped.genreAgg,
+    financialAgg: scoped.financialAgg,
+    peopleAgg:    scoped.peopleAgg,
+    genrePairAgg: scoped.genrePairAgg,
+    keywordAgg:   [],
+    topMovies:    scoped.topMovies,
+    kpiTiles,
+    kpiTileShard,
     loading:      core === null,
     scopeLoading,
     error:        coreError,
   }
+}
+
+// ---------------------------------------------------------------------------
+// useKeywords — call from WordCloud when a genre is selected
+// ---------------------------------------------------------------------------
+export function useKeywords(
+  scopeType: ShardScopeType,
+  scopeId: string,
+  genre: string | null,
+): KeywordAggEntry[] {
+  const [keywords, setKeywords] = useState<KeywordAggEntry[]>([])
+
+  useEffect(() => {
+    if (!genre) { setKeywords([]); return }
+    let cancelled = false
+    fetchJson<KeywordAggEntry[]>(apiUrl('keywords', { scope_type: scopeType, scope_id: scopeId, genre }))
+      .then(data => { if (!cancelled) setKeywords(data) })
+      .catch(() => { if (!cancelled) setKeywords([]) })
+    return () => { cancelled = true }
+  }, [scopeType, scopeId, genre])
+
+  return keywords
 }
