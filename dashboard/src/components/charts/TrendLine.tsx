@@ -36,6 +36,7 @@ export default function TrendLine({ data, filter }: Props) {
   return (
     <ChartPanel
       title="Trend Over Time"
+      noData={years.length === 0}
       metric={metric}
       metrics={[
         { value: 'rating', label: 'Rating' },

@@ -131,8 +131,10 @@ export default function BubblePlot({ data, filter, mode }: Props) {
     </span>
   ) : undefined
 
+  const isEmpty = traces.length === 0 || (traces[0]?.x as unknown[])?.length === 0
+
   return (
-    <ChartPanel title={title} right={headerRight}>
+    <ChartPanel title={title} right={headerRight} noData={isEmpty}>
       <Plot
         data={traces}
         layout={{

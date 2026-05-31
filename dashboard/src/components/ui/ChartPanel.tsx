@@ -8,11 +8,12 @@ interface Props<T extends string> {
   metrics?: MetricOpt<T>[]
   onMetric?: (v: T) => void
   right?: ReactNode
+  noData?: boolean
   children: ReactNode
 }
 
 export default function ChartPanel<T extends string>({
-  title, metric, metrics, onMetric, right, children,
+  title, metric, metrics, onMetric, right, noData, children,
 }: Props<T>) {
   return (
     <div style={{
@@ -58,6 +59,17 @@ export default function ChartPanel<T extends string>({
       </div>
       <div style={{ flex: 1, minHeight: 0, overflow: 'hidden', position: 'relative' }}>
         {children}
+        {noData && (
+          <div style={{
+            position: 'absolute', inset: 0,
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+            backgroundColor: 'rgba(20,20,20,0.88)',
+          }}>
+            <span style={{ fontFamily: 'Inter, sans-serif', fontSize: '0.75rem', color: '#4A4540' }}>
+              No data
+            </span>
+          </div>
+        )}
       </div>
     </div>
   )

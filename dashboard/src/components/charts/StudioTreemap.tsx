@@ -65,6 +65,7 @@ export default function StudioTreemap({ data, filter }: Props) {
   return (
     <ChartPanel
       title="Entity Treemap"
+      noData={!treemapData}
       right={
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
           <div style={{ display: 'flex', gap: '0.15rem' }}>
@@ -87,7 +88,7 @@ export default function StudioTreemap({ data, filter }: Props) {
         </div>
       }
     >
-      {treemapData ? (
+      {treemapData && (
         <Plot
           data={[{
             type: 'treemap',
@@ -113,10 +114,6 @@ export default function StudioTreemap({ data, filter }: Props) {
           style={{ width: '100%', height: '100%' }}
           useResizeHandler
         />
-      ) : (
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100%', color: '#4A4540', fontSize: '0.75rem' }}>
-          No data
-        </div>
       )}
     </ChartPanel>
   )

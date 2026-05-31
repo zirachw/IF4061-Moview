@@ -53,6 +53,7 @@ export default function StackedArea({ data, filter }: Props) {
   return (
     <ChartPanel
       title="Genre Stream"
+      noData={traces.length === 0}
       metric={metric}
       metrics={[
         { value: 'revenue', label: 'Rev' },

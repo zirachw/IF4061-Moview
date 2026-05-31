@@ -71,6 +71,7 @@ export default function DirectorBar({ data, filter }: Props) {
   return (
     <ChartPanel
       title="Top Entities"
+      noData={bars.length === 0}
       right={
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
           <div style={{ display: 'flex', gap: '0.15rem' }}>

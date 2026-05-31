@@ -114,6 +114,7 @@ export default function WordCloud({ data, filter }: Props) {
   return (
     <ChartPanel
       title="Keywords"
+      noData={!words.length}
       right={
         genres.length > 0 ? (
           <select

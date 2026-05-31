@@ -119,6 +119,11 @@ export default function App() {
   const smoothSnapTimeoutRef = useRef<number | null>(null)
   const syncedYearScopeRef = useRef('')
 
+  useEffect(() => {
+    const id = requestAnimationFrame(() => window.dispatchEvent(new Event('resize')))
+    return () => cancelAnimationFrame(id)
+  }, [showAbout, activeTab])
+
   const { scope_type, scope_id } = getScope(filter)
   const selectedScopeKey = `${scope_type}:${scope_id}`
   const data = useData(scope_type, scope_id, filter.yearRange)

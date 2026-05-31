@@ -171,6 +171,7 @@ export default function BumpChart({ data, filter }: Props) {
   return (
     <ChartPanel
       title="Genre Rank"
+      noData={periods.length === 0}
       right={
         <div style={{ display: 'flex', gap: '0.15rem' }}>
           {(['films', 'revenue', 'profit'] as Metric[]).map(m => (

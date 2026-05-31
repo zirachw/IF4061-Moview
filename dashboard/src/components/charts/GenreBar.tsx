@@ -33,6 +33,7 @@ export default function GenreBar({ data, filter }: Props) {
   return (
     <ChartPanel
       title="Top Genres"
+      noData={bars.length === 0}
       metric={metric}
       metrics={[
         { value: 'films',   label: 'Films'  },

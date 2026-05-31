@@ -36,10 +36,8 @@ export default function CooccurrenceHeatmap({ data, filter }: Props) {
     return { genres: genresByCount, matrix: mat }
   }, [data.genrePairAgg, filter])
 
-  if (!genres.length) return <ChartPanel title="Genre Co-occurrence"><div style={{ color: '#4A4540', display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100%', fontSize: '0.75rem' }}>No data</div></ChartPanel>
-
   return (
-    <ChartPanel title="Genre Co-occurrence">
+    <ChartPanel title="Genre Co-occurrence" noData={!genres.length}>
       <Plot
         data={[{
           type: 'heatmap',

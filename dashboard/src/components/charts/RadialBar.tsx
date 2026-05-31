@@ -63,6 +63,7 @@ export default function RadialBar({ data, filter }: Props) {
   return (
     <ChartPanel
       title="Rating Tiers"
+      noData={total === 0}
       right={
         genres.length > 0 ? (
           <select
