@@ -4,6 +4,8 @@ import type { TabId } from '../../types'
 interface Props {
   activeTab: TabId
   onTabChange: (tab: TabId) => void
+  showAbout: boolean
+  onAboutToggle: () => void
 }
 
 const SLANT = 18
@@ -45,7 +47,7 @@ function RightEdge() {
   )
 }
 
-export default function Clapperboard({ activeTab, onTabChange }: Props) {
+export default function Clapperboard({ activeTab, onTabChange, showAbout, onAboutToggle }: Props) {
   const btnRefs = useRef<Record<TabId, HTMLButtonElement | null>>({
     popularity: null, financial: null, genre: null, people: null,
   })
@@ -75,30 +77,37 @@ export default function Clapperboard({ activeTab, onTabChange }: Props) {
         backgroundColor: 'var(--bg-theater)',
       }}
     >
-      <div
+      <button
+        type="button"
+        onClick={onAboutToggle}
         style={{
           flex: '0 0 10rem',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
           clipPath: LOGO_SHAPE,
-          backgroundColor: 'var(--bg-card)',
+          backgroundColor: showAbout ? '#E0E0E0' : 'var(--bg-card)',
           flexShrink: 0,
           paddingRight: `${SLANT}px`,
+          border: 'none',
+          cursor: 'pointer',
+          outline: 'none',
+          transition: 'background-color 110ms ease-out',
         }}
       >
         <span
           style={{
             fontFamily: '"Instrument Serif", serif',
             fontSize: '1.25rem',
-            color: 'var(--gold)',
+            color: showAbout ? '#111111' : 'var(--gold)',
             letterSpacing: '0.06em',
             userSelect: 'none',
+            transition: 'color 110ms',
           }}
         >
           MOVIEW
         </span>
-      </div>
+      </button>
 
       <div style={{ flex: 1, display: 'flex', overflow: 'visible', position: 'relative' }}>
         {TABS.map(({ id, label }, i) => {

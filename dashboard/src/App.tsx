@@ -17,6 +17,7 @@ import PopularityTab from './components/tabs/PopularityTab'
 import GenreTab from './components/tabs/GenreTab'
 import FinancialTab from './components/tabs/FinancialTab'
 import PeopleTab from './components/tabs/PeopleTab'
+import ClapperAbout from './components/tabs/ClapperAbout'
 
 const SCENE_SNAP_THRESHOLD = 120
 const SMOOTH_SNAP_MS = 650
@@ -72,6 +73,7 @@ export default function App() {
   const [filter, setFilter] = useState<FilterState>(DEFAULT_FILTER)
   const [activeTab, setActiveTab] = useState<TabId>('popularity')
   const [mountedTabs, setMountedTabs] = useState<Set<TabId>>(new Set<TabId>(['popularity']))
+  const [showAbout, setShowAbout] = useState(false)
   const [countryDisplayName, setCountryDisplayName] = useState<string | null>(null)
   const sceneRef = useRef<HTMLDivElement>(null)
   const wheelIntentRef = useRef(0)
@@ -361,10 +363,16 @@ export default function App() {
 
   return (
     <main>
-      <Clapperboard activeTab={activeTab} onTabChange={tab => {
-        setActiveTab(tab)
-        setMountedTabs(prev => prev.has(tab) ? prev : new Set([...prev, tab]))
-      }} />
+      <Clapperboard
+        activeTab={activeTab}
+        onTabChange={tab => {
+          setActiveTab(tab)
+          setMountedTabs(prev => prev.has(tab) ? prev : new Set([...prev, tab]))
+          setShowAbout(false)
+        }}
+        showAbout={showAbout}
+        onAboutToggle={() => setShowAbout(v => !v)}
+      />
 
       <section id="hero">
         <ChoroplethMap
@@ -407,22 +415,27 @@ export default function App() {
             geo={data.geo}
             countryDisplayName={countryDisplayName}
             yearBounds={currentYearBounds}
+            showAbout={showAbout}
           />
         </div>
 
         <div style={{ minHeight: 0, flex: 1, overflow: 'hidden' }}>
-          <FilmRoll>
-            {(['popularity', 'financial', 'genre', 'people'] as TabId[]).map(tab => (
-              mountedTabs.has(tab) && (
-                <div key={tab} style={{ ...TAB_PANEL_STYLE, display: activeTab === tab ? 'block' : 'none' }}>
-                  {tab === 'popularity' && <PopularityTab data={data} filter={filter} />}
-                  {tab === 'financial' && <FinancialTab data={data} filter={filter} />}
-                  {tab === 'genre' && <GenreTab data={data} filter={filter} />}
-                  {tab === 'people' && <PeopleTab data={data} filter={filter} />}
-                </div>
-              )
-            ))}
-          </FilmRoll>
+          {showAbout ? (
+            <FilmRoll><ClapperAbout /></FilmRoll>
+          ) : (
+            <FilmRoll>
+              {(['popularity', 'financial', 'genre', 'people'] as TabId[]).map(tab => (
+                mountedTabs.has(tab) && (
+                  <div key={tab} style={{ ...TAB_PANEL_STYLE, display: activeTab === tab ? 'block' : 'none' }}>
+                    {tab === 'popularity' && <PopularityTab data={data} filter={filter} />}
+                    {tab === 'financial' && <FinancialTab data={data} filter={filter} />}
+                    {tab === 'genre' && <GenreTab data={data} filter={filter} />}
+                    {tab === 'people' && <PeopleTab data={data} filter={filter} />}
+                  </div>
+                )
+              ))}
+            </FilmRoll>
+          )}
         </div>
       </div>
     </main>

@@ -11,6 +11,7 @@ interface Props {
   geo: GeoEntry[]
   countryDisplayName?: string | null
   yearBounds: [number, number]
+  showAbout: boolean
 }
 
 const CONTINENTS = [
@@ -106,8 +107,16 @@ function KpiTile({ label, value, loading }: { label: string; value: string; load
   )
 }
 
+const TEAM = [
+  { nim: '004', name: 'Razi'   },
+  { nim: '006', name: 'Will'   },
+  { nim: '086', name: 'Bob'    },
+  { nim: '103', name: 'Owen'   },
+  { nim: '109', name: 'Haegen' },
+]
+
 export default function KpiStrip({
-  activeTab, kpiTiles, kpiTileShard, filter, onFilterChange, geo, countryDisplayName, yearBounds,
+  activeTab, kpiTiles, kpiTileShard, filter, onFilterChange, geo, countryDisplayName, yearBounds, showAbout,
 }: Props) {
   const [yMin, yMax] = filter.yearRange
   const [yearMin, yearMax] = yearBounds
@@ -185,6 +194,68 @@ export default function KpiStrip({
       ]
     }
   })()
+
+  const DASH_CTRL: React.CSSProperties = {
+    ...CTRL,
+    opacity: 0.35,
+    cursor: 'default',
+    pointerEvents: 'none',
+    display: 'flex',
+    alignItems: 'center',
+  }
+
+  if (showAbout) {
+    return (
+      <div
+        style={{
+          height: 'var(--kpi-h)',
+          display: 'flex',
+          backgroundColor: 'var(--bg-surface)',
+          borderTop: '1px solid var(--film-edge)',
+          borderBottom: '1px solid var(--film-edge)',
+        }}
+      >
+        <div
+          style={{
+            flex: '0 0 21rem',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '0.5rem',
+            padding: '0 1rem',
+            borderRight: '1px solid var(--film-edge)',
+            overflow: 'hidden',
+          }}
+        >
+          <div style={{ ...DASH_CTRL, width: '8.5rem', flexShrink: 0 }}>—</div>
+          <div style={{ ...DASH_CTRL, width: '8.5rem', flexShrink: 0 }}>—</div>
+        </div>
+
+        <div style={{ flex: 1, display: 'flex' }}>
+          {TEAM.map(({ nim, name }) => (
+            <KpiTile key={nim} label={name} value={nim} />
+          ))}
+        </div>
+
+        <div
+          style={{
+            flex: '0 0 21rem',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'flex-end',
+            gap: '0.5rem',
+            padding: '0 1rem',
+            borderLeft: '1px solid var(--film-edge)',
+            overflow: 'hidden',
+          }}
+        >
+          <span style={LBL}>From</span>
+          <div style={{ ...DASH_CTRL, width: '6.5rem', flexShrink: 0 }}>—</div>
+          <span style={LBL}>To</span>
+          <div style={{ ...DASH_CTRL, width: '6.5rem', flexShrink: 0 }}>—</div>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div
