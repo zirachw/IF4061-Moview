@@ -72,7 +72,7 @@ export default function ClapperAbout() {
       <div style={{ flex: 1, display: 'flex', minHeight: 0 }}>
         <Cell label="DATASET" value="TMDB Film" />
         <VDiv />
-        <Cell label="TECH STACK" value="React, Cloudflare (D1, Functions, Pages)" flex={1.5} />
+        <Cell label="TECH STACK" value="React, Plotly.js, Cloudflare (D1, Functions, Pages)" flex={1.5} />
       </div>
     </div>
   )
