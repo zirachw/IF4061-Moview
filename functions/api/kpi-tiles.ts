@@ -51,8 +51,8 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
         SELECT
           (SELECT SUM(film_count)
            FROM kpi WHERE scope_type = ? AND scope_id = ? AND year BETWEEN ? AND ?) AS films,
-          (SELECT COUNT(DISTINCT genre)
-           FROM genre_agg WHERE scope_type = ? AND scope_id = ? AND year BETWEEN ? AND ?) AS active_genres,
+          NULLIF((SELECT COUNT(DISTINCT genre)
+           FROM genre_agg WHERE scope_type = ? AND scope_id = ? AND year BETWEEN ? AND ?), 0) AS active_genres,
           (SELECT genre FROM genre_agg
            WHERE scope_type = ? AND scope_id = ? AND year BETWEEN ? AND ?
            GROUP BY genre ORDER BY SUM(film_count) DESC LIMIT 1) AS top_genre,
@@ -70,15 +70,15 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
         SELECT
           (SELECT SUM(film_count)
            FROM kpi WHERE scope_type = ? AND scope_id = ? AND year BETWEEN ? AND ?) AS films,
-          (SELECT COUNT(DISTINCT name) FROM people_agg
+          NULLIF((SELECT COUNT(DISTINCT name) FROM people_agg
            WHERE scope_type = ? AND scope_id = ? AND entity_type = 'studio'
-             AND year BETWEEN ? AND ?) AS studio_count,
-          (SELECT COUNT(DISTINCT name) FROM people_agg
+             AND year BETWEEN ? AND ?), 0) AS studio_count,
+          NULLIF((SELECT COUNT(DISTINCT name) FROM people_agg
            WHERE scope_type = ? AND scope_id = ? AND entity_type = 'director'
-             AND year BETWEEN ? AND ?) AS director_count,
-          (SELECT COUNT(DISTINCT name) FROM people_agg
+             AND year BETWEEN ? AND ?), 0) AS director_count,
+          NULLIF((SELECT COUNT(DISTINCT name) FROM people_agg
            WHERE scope_type = ? AND scope_id = ? AND entity_type = 'cast'
-             AND year BETWEEN ? AND ?) AS cast_count
+             AND year BETWEEN ? AND ?), 0) AS cast_count
       `)
       .bind(...base, ...base, ...base, ...base)
       .first<Record<string, unknown>>()
