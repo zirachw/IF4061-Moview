@@ -65,14 +65,14 @@ export default function ClapperAbout() {
         <Cell label="SCENE" value="IF4061 Data Visualization" />
         <VDiv />
         <Cell label="TAKE" value="Tubes 2" />
-      </Row>
-      <Row>
-        <Cell label="DATE" value="2025/2026" />
         <VDiv />
-        <Cell label="GRAPHIC" value="Interactive Dashboard" flex={1.5} />
+        <Cell label="DATE" value="2025/2026" />
       </Row>
+      <Row label="GRAPHIC" value="Interactive Dashboard" />
       <div style={{ flex: 1, display: 'flex', minHeight: 0 }}>
-        <Cell label="DATASET" value="Kaggle TMDB Film" />
+        <Cell label="DATASET" value="TMDB Film" />
+        <VDiv />
+        <Cell label="TECH STACK" value="React, Cloudflare (D1, Functions, Pages)" flex={1.5} />
       </div>
     </div>
   )
