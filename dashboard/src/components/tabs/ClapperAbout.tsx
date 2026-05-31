@@ -22,7 +22,7 @@ const VAL: React.CSSProperties = {
 
 function Row({ label, value, children }: { label?: string; value?: string; children?: React.ReactNode }) {
   return (
-    <div style={{ flex: 1, display: 'flex', borderBottom: BORDER, minHeight: 0 }}>
+    <div style={{ flex: 1, display: 'flex', borderBottom: BORDER, minHeight: '5rem' }}>
       {children ?? (
         <div style={{ flex: 1, padding: '1rem 2rem', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
           <span style={LBL}>{label}</span>
@@ -48,12 +48,11 @@ export default function ClapperAbout() {
   return (
     <div style={{
       width: '100%',
-      height: '100%',
+      minHeight: '100%',
       backgroundColor: '#F5F0E8',
       display: 'flex',
       flexDirection: 'column',
       border: BORDER,
-      overflow: 'hidden',
     }}>
       <Row>
         <Cell label="PRODUCTION" value="Moview" />
@@ -69,7 +68,7 @@ export default function ClapperAbout() {
         <Cell label="DATE" value="2025/2026" />
       </Row>
       <Row label="GRAPHIC" value="Interactive Dashboard" />
-      <div style={{ flex: 1, display: 'flex', minHeight: 0 }}>
+      <div style={{ flex: 1, display: 'flex', minHeight: '5rem' }}>
         <Cell label="DATASET" value="TMDB Film" />
         <VDiv />
         <Cell label="TECH STACK" value="React, Plotly.js, Cloudflare (D1, Functions, Pages)" flex={1.5} />
