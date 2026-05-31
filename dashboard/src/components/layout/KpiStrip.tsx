@@ -139,8 +139,8 @@ export default function KpiStrip({
     () => {
       if (!kpiShardMatchesSelection) return null
       const candidates = kpiTiles.filter(row =>
-        row.scope_type === scope.scope_type &&
-        row.scope_id === scope.scope_id &&
+        row.scope_type === shard.scope_type &&
+        row.scope_id === shard.scope_id &&
         row.tab === activeTab
       )
       return candidates.find(row =>

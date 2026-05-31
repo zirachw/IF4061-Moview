@@ -8,7 +8,7 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
   const scope_id   = searchParams.get('scope_id')   ?? 'WORLD'
 
   const { results } = await env.DB
-    .prepare('SELECT * FROM top_movies WHERE scope_type = ? AND scope_id = ?')
+    .prepare('SELECT * FROM top_movies WHERE scope_type = ? AND scope_id = ? ORDER BY popularity DESC LIMIT 200')
     .bind(scope_type, scope_id)
     .all()
 

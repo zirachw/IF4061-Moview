@@ -16,6 +16,8 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
     params.push(entity_type)
   }
 
+  query += ' ORDER BY film_count DESC LIMIT 2000'
+
   const { results } = await env.DB.prepare(query).bind(...params).all()
   return Response.json(results)
 }
