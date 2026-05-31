@@ -1,0 +1,121 @@
+@import "tailwindcss";
+
+@theme {
+  /* Theater backgrounds */
+  --color-theater:        #0A0A0A;
+  --color-surface:        #141414;
+  --color-card:           #1E1E1E;
+
+  /* Curtain */
+  --color-curtain:        #8B1A1A;
+  --color-curtain-mid:    #B22222;
+  --color-curtain-dark:   #5C0F0F;
+
+  /* Marquee gold */
+  --color-gold:           #D4AF37;
+  --color-gold-light:     #E8CC6A;
+  --color-gold-dim:       #8B7322;
+
+  /* Text */
+  --color-text-primary:   #F5F0E8;
+  --color-text-secondary: #9E9589;
+  --color-text-muted:     #4A4540;
+
+  /* Film strip */
+  --color-film-edge:      #1A1512;
+  --color-sprocket:       #0A0A0A;
+
+  /* Chart genre palette */
+  --color-c-action:       #C0392B;
+  --color-c-drama:        #2980B9;
+  --color-c-comedy:       #D4AF37;
+  --color-c-thriller:     #8E44AD;
+  --color-c-romance:      #E8607A;
+  --color-c-animation:    #27AE60;
+  --color-c-other:        #E67E22;
+
+  /* Typography */
+  --font-display: 'Instrument Serif', serif;
+  --font-sans:    'Inter', system-ui, sans-serif;
+  --font-mono:    'JetBrains Mono', monospace;
+
+  /* Film strip dimensions */
+  --spacing-film-strip: 3rem;
+  --spacing-sprocket:   1.125rem;
+}
+
+/* Short-form aliases used in inline styles */
+:root {
+  --bg-theater:      #0A0A0A;
+  --bg-surface:      #141414;
+  --bg-card:         #1E1E1E;
+  --curtain:         #8B1A1A;
+  --curtain-mid:     #B22222;
+  --curtain-dark:    #5C0F0F;
+  --gold:            #D4AF37;
+  --gold-light:      #E8CC6A;
+  --gold-dim:        #8B7322;
+  --text-primary:    #F5F0E8;
+  --text-secondary:  #9E9589;
+  --text-muted:      #4A4540;
+  --film-edge:       #1A1512;
+  --sprocket:        #0A0A0A;
+
+  --nav-h: 2.75rem;
+  --kpi-h: 4rem;
+}
+
+/* Layout */
+#hero {
+  position: fixed;
+  top: var(--nav-h);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  overflow: hidden;
+}
+
+
+/* Base */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-theater);
+  color: var(--color-text-primary);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100svh;
+  width: 100%;
+}
+
+@keyframes kpiPulse {
+  0%, 100% { opacity: 0.3; }
+  50%       { opacity: 0.65; }
+}
+
+@keyframes tabPanelFade {
+  from {
+    opacity: 0;
+    transform: translateY(0.75rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
