@@ -55,14 +55,16 @@ export default function ClapperAbout() {
       border: BORDER,
       overflow: 'hidden',
     }}>
-      <Row label="PROD." value="Moview" />
-      <Row label="DIRECTOR" value="Dessi Puji Lestari, S.T, M.Eng., Ph.D." />
       <Row>
-        <Cell label="SCENE" value="IF4061" />
-        <VDiv />
-        <Cell label="TAKE" value="Tubes 2" />
+        <Cell label="PRODUCTION" value="Moview" />
         <VDiv />
         <Cell label="ROLL" value="G01" />
+      </Row>
+      <Row label="DIRECTOR" value="Dessi Puji Lestari, S.T, M.Eng., Ph.D." />
+      <Row>
+        <Cell label="SCENE" value="IF4061 Data Visualization" />
+        <VDiv />
+        <Cell label="TAKE" value="Tubes 2" />
       </Row>
       <Row>
         <Cell label="DATE" value="2025/2026" />

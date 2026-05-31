@@ -21,19 +21,19 @@ function buildGenreSankey(data: AppData, filter: FilterState) {
   const nodeSet = new Set<string>()
   for (const [key] of topPairs) {
     const [a, b] = key.split('|')
-    nodeSet.add(a + ' (A)')
-    nodeSet.add(b + ' (B)')
+    nodeSet.add(a + '__pri')
+    nodeSet.add(b + '__sec')
   }
   const nodes = [...nodeSet]
   const idx = new Map(nodes.map((n, i) => [n, i]))
   const sources: number[] = [], targets: number[] = [], values: number[] = []
   for (const [key, val] of topPairs) {
     const [a, b] = key.split('|')
-    sources.push(idx.get(a + ' (A)')!)
-    targets.push(idx.get(b + ' (B)')!)
+    sources.push(idx.get(a + '__pri')!)
+    targets.push(idx.get(b + '__sec')!)
     values.push(val)
   }
-  return { nodes: nodes.map(n => n.replace(' (A)', '').replace(' (B)', '')), sources, targets, values }
+  return { nodes: nodes.map(n => n.replace('__pri', '').replace('__sec', '')), sources, targets, values }
 }
 
 function buildFinancialSankey(data: AppData, filter: FilterState) {
@@ -128,7 +128,7 @@ export default function Sankey({ data, filter, mode }: Props) {
     return buildPeopleSankey(data, filter, metric)
   }, [data, filter, mode, metric])
 
-  const title = mode === 'genre' ? 'Genre Flow' : mode === 'financial' ? 'Budget -> Season -> Profit' : 'People Flow'
+  const title = mode === 'genre' ? 'Genre Flow' : mode === 'financial' ? 'Budget → Season → Profit' : 'People Flow'
 
   const nodeColors = nodes.map((n, i) => {
     if (mode === 'genre') return genreColor(n)
@@ -145,6 +145,16 @@ export default function Sankey({ data, filter, mode }: Props) {
   return (
     <ChartPanel
       title={title}
+      right={mode === 'genre' ? (
+        <span style={{
+          fontFamily: '"JetBrains Mono", monospace',
+          fontSize: '0.58rem',
+          color: '#9E9589',
+          whiteSpace: 'nowrap',
+        }}>
+          primary → secondary
+        </span>
+      ) : undefined}
       metric={mode === 'people' ? metric : undefined}
       metrics={mode === 'people' ? [
         { value: 'films', label: 'Films' },

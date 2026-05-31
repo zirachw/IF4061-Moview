@@ -33,14 +33,15 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
     const result = await env.DB
       .prepare(`
         SELECT
-          SUM(film_count) AS films,
+          (SELECT SUM(film_count)
+           FROM kpi WHERE scope_type = ? AND scope_id = ? AND year BETWEEN ? AND ?) AS films,
           CAST(SUM(budget_sum)  AS REAL) / NULLIF(SUM(budget_count),  0) AS avg_budget,
           CAST(SUM(profit_sum)  AS REAL) / NULLIF(SUM(profit_count),  0) AS avg_profit,
           CAST(SUM(revenue_sum) AS REAL) / NULLIF(SUM(budget_sum),    0) AS avg_roi
         FROM financial_agg
         WHERE scope_type = ? AND scope_id = ? AND year BETWEEN ? AND ?
       `)
-      .bind(...base)
+      .bind(...base, ...base)
       .first<Record<string, unknown>>()
     row = result
 

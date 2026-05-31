@@ -111,7 +111,7 @@ export default function Clapperboard({ activeTab, onTabChange, showAbout, onAbou
 
       <div style={{ flex: 1, display: 'flex', overflow: 'visible', position: 'relative' }}>
         {TABS.map(({ id, label }, i) => {
-          const isActive = id === activeTab
+          const isActive = !showAbout && id === activeTab
           const isLast = i === TABS.length - 1
           return (
             <button
