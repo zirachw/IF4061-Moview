@@ -57,28 +57,42 @@ export default function TopFilmsBar({ data, filter }: Props) {
     : metric === 'rating' ? 'Avg Rating'
     : 'Vote Count'
 
+  const METRIC_BTN = (active: boolean): React.CSSProperties => ({
+    fontFamily: '"JetBrains Mono", monospace', fontSize: '0.58rem',
+    padding: '0.1rem 0.35rem', borderRadius: '0.18rem',
+    border: `1px solid ${active ? 'rgba(212,175,55,0.5)' : 'rgba(255,255,255,0.12)'}`,
+    cursor: 'pointer',
+    backgroundColor: active ? 'rgba(212,175,55,0.15)' : 'transparent',
+    color: active ? '#D4AF37' : '#9E9589',
+  })
+
   return (
     <ChartPanel
       title="Top Films"
       right={
-        genres.length > 0 ? (
-          <select
-            value={selectedGenre ?? ''}
-            onChange={e => setSelectedGenre(e.target.value || null)}
-            style={{ ...SELECT_STYLE, color: selectedGenre ? genreColor(selectedGenre) : 'var(--text-secondary)' }}
-          >
-            <option value="">All Genres</option>
-            {genres.map(g => <option key={g} value={g}>{g}</option>)}
-          </select>
-        ) : undefined
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
+          <div style={{ display: 'flex', gap: '0.15rem' }}>
+            {(['popularity', 'rating', 'votes'] as Metric[]).map(m => (
+              <button key={m} type="button" onClick={() => setMetric(m)} style={METRIC_BTN(metric === m)}>
+                {m === 'popularity' ? 'Pop.' : m === 'rating' ? 'Rating' : 'Votes'}
+              </button>
+            ))}
+          </div>
+          {genres.length > 0 && (
+            <>
+              <span style={{ color: 'rgba(255,255,255,0.15)', fontSize: '0.7rem', userSelect: 'none' }}>│</span>
+              <select
+                value={selectedGenre ?? ''}
+                onChange={e => setSelectedGenre(e.target.value || null)}
+                style={{ ...SELECT_STYLE, color: selectedGenre ? genreColor(selectedGenre) : 'var(--text-secondary)' }}
+              >
+                <option value="">All Genres</option>
+                {genres.map(g => <option key={g} value={g}>{g}</option>)}
+              </select>
+            </>
+          )}
+        </div>
       }
-      metric={metric}
-      metrics={[
-        { value: 'popularity', label: 'Pop.' },
-        { value: 'rating', label: 'Rating' },
-        { value: 'votes', label: 'Votes' },
-      ]}
-      onMetric={setMetric}
     >
       <Plot
         data={[{

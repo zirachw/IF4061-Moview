@@ -37,22 +37,34 @@ export default function DirectorBar({ data, filter }: Props) {
   const [entityType, setEntityType] = useState<PeopleEntityType>('director')
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
 
-  const { bars, genres } = useMemo(() => {
+  const { bars, barColors, genres } = useMemo(() => {
     const allRows = filterAgg(data.peopleAgg, filter).filter(r => r.entity_type === entityType)
     const genres = [...new Set(allRows.map(r => r.genre).filter(Boolean) as string[])].sort()
     const rows = selectedGenre ? allRows.filter(r => r.genre === selectedGenre) : allRows
     const entityMap = new Map<string, number>()
+    const entityGenreMap = new Map<string, Map<string, number>>()
     for (const r of rows) {
       entityMap.set(r.name, (entityMap.get(r.name) ?? 0) + r.film_count)
+      if (r.genre) {
+        const gm = entityGenreMap.get(r.name) ?? new Map<string, number>()
+        gm.set(r.genre, (gm.get(r.genre) ?? 0) + r.film_count)
+        entityGenreMap.set(r.name, gm)
+      }
     }
     const bars = [...entityMap.entries()]
       .filter(([, v]) => v > 0)
       .sort((a, b) => a[1] - b[1])
       .slice(-15)
-    return { bars, genres }
+    const fallback = ENTITY_COLORS[entityType]
+    const barColors = bars.map(([name]) => {
+      if (selectedGenre) return genreColor(selectedGenre)
+      const gm = entityGenreMap.get(name)
+      if (!gm) return fallback
+      const dominant = [...gm.entries()].sort((a, b) => b[1] - a[1])[0]?.[0]
+      return dominant ? genreColor(dominant) : fallback
+    })
+    return { bars, barColors, genres }
   }, [data.peopleAgg, filter, entityType, selectedGenre])
-
-  const color = ENTITY_COLORS[entityType]
 
   return (
     <ChartPanel
@@ -88,7 +100,7 @@ export default function DirectorBar({ data, filter }: Props) {
           x: bars.map(([, v]) => v),
           y: bars.map(([n]) => n.length > 22 ? n.slice(0, 20) + '…' : n),
           marker: {
-            color,
+            color: barColors,
             opacity: 0.8,
             line: { color: 'rgba(0,0,0,0.3)', width: 0.5 },
           },
