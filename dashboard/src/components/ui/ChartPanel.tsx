@@ -63,7 +63,7 @@ export default function ChartPanel<T extends string>({
           <div style={{
             position: 'absolute', inset: 0,
             display: 'flex', alignItems: 'center', justifyContent: 'center',
-            backgroundColor: 'rgba(20,20,20,0.88)',
+            backgroundColor: 'rgba(20,20,20,1)',
           }}>
             <span style={{ fontFamily: 'Inter, sans-serif', fontSize: '0.75rem', color: '#4A4540' }}>
               No data

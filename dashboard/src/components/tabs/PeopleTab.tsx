@@ -72,6 +72,7 @@ function PeopleDonut({ data, filter }: { data: AppData; filter: FilterState }) {
   return (
     <ChartPanel
       title="Entity Distribution"
+      noData={slices.length === 0}
       right={
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
           <div style={{ display: 'flex', gap: '0.15rem' }}>

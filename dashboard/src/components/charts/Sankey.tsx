@@ -145,7 +145,7 @@ export default function Sankey({ data, filter, mode }: Props) {
   return (
     <ChartPanel
       title={title}
-      noData={nodes.length === 0}
+      noData={values.length === 0}
       right={mode === 'genre' ? (
         <span style={{
           fontFamily: '"JetBrains Mono", monospace',
