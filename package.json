@@ -1,0 +1,28 @@
+{
+  "name": "if4061-moview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zirachw/IF4061-Moview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zirachw/IF4061-Moview/issues"
+  },
+  "homepage": "https://github.com/zirachw/IF4061-Moview#readme",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260531.1",
+    "typescript": "^6.0.3"
+  }
+}
