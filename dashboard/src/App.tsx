@@ -116,6 +116,7 @@ export default function App() {
   const touchIntentRef = useRef(0)
   const snappingRef = useRef(false)
   const filmViewRef = useRef(false)
+  const showAboutRef = useRef(false)
   const smoothSnapTimeoutRef = useRef<number | null>(null)
   const syncedYearScopeRef = useRef('')
 
@@ -125,6 +126,7 @@ export default function App() {
   }, [showAbout, activeTab])
 
   useEffect(() => {
+    showAboutRef.current = showAbout
     if (showAbout) {
       document.documentElement.style.overflow = 'hidden'
     } else {
@@ -239,6 +241,7 @@ export default function App() {
     }
 
     function onWheel(event: WheelEvent) {
+      if (showAboutRef.current) { event.preventDefault(); return }
       if (!sceneRef.current) return
 
       const sceneStart = sceneStartY()
@@ -279,6 +282,7 @@ export default function App() {
     }
 
     function onTouchMove(event: TouchEvent) {
+      if (showAboutRef.current) { event.preventDefault(); return }
       if (!sceneRef.current || touchStartRef.current === null) return
 
       const currentY = event.touches[0]?.clientY ?? touchStartRef.current
