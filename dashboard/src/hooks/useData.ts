@@ -261,9 +261,10 @@ export function useKeywords(
   const [keywords, setKeywords] = useState<KeywordAggEntry[]>([])
 
   useEffect(() => {
-    if (!genre) { setKeywords([]); return }
     let cancelled = false
-    fetchJson<KeywordAggEntry[]>(apiUrl('keywords', { scope_type: scopeType, scope_id: scopeId, genre }))
+    const params: Record<string, string> = { scope_type: scopeType, scope_id: scopeId }
+    if (genre) params.genre = genre
+    fetchJson<KeywordAggEntry[]>(apiUrl('keywords', params))
       .then(data => { if (!cancelled) setKeywords(data) })
       .catch(() => { if (!cancelled) setKeywords([]) })
     return () => { cancelled = true }

@@ -30,9 +30,9 @@ export default function WordCloud({ data, filter }: Props) {
 
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
 
-  // Default to top genre when genre list changes (scope change)
+  // Reset to All when scope changes
   useEffect(() => {
-    setSelectedGenre(genres[0] ?? null)
+    setSelectedGenre(null)
   }, [genres])
 
   const { scope_type, scope_id } = getScope(filter)
@@ -40,17 +40,18 @@ export default function WordCloud({ data, filter }: Props) {
 
   const words = useMemo<Word[]>(() => {
     if (!keywordRows.length) return []
-    const kMap = new Map<string, number>()
+    const kMap = new Map<string, { count: number; genre: string }>()
     for (const r of keywordRows) {
-      kMap.set(r.keyword, (kMap.get(r.keyword) ?? 0) + r.count)
+      const cur = kMap.get(r.keyword)
+      if (!cur || r.count > cur.count) kMap.set(r.keyword, { count: r.count, genre: r.genre })
     }
-    const sorted = [...kMap.entries()].sort((a, b) => b[1] - a[1]).slice(0, 60)
-    const maxCount = sorted[0]?.[1] ?? 1
-    return sorted.map(([text, count]) => ({
+    const sorted = [...kMap.entries()].sort((a, b) => b[1].count - a[1].count).slice(0, 60)
+    const maxCount = sorted[0]?.[1].count ?? 1
+    return sorted.map(([text, { count, genre }]) => ({
       text,
       size: 8 + (count / maxCount) * 28,
-      genre: selectedGenre ?? '',
-      color: genreColor(selectedGenre),
+      genre,
+      color: genreColor(genre),
     }))
   }, [keywordRows, selectedGenre])
 
@@ -120,6 +121,7 @@ export default function WordCloud({ data, filter }: Props) {
             onChange={e => setSelectedGenre(e.target.value || null)}
             style={selectStyle}
           >
+            <option value="">All Genres</option>
             {genres.map(g => <option key={g} value={g}>{g}</option>)}
           </select>
         ) : undefined
