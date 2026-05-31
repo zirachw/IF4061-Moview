@@ -124,6 +124,26 @@ export default function App() {
     return () => cancelAnimationFrame(id)
   }, [showAbout, activeTab])
 
+  useEffect(() => {
+    if (showAbout) {
+      const y = window.scrollY
+      document.body.style.position = 'fixed'
+      document.body.style.top = `-${y}px`
+      document.body.style.width = '100%'
+    } else {
+      const top = Number.parseFloat(document.body.style.top || '0') * -1
+      document.body.style.position = ''
+      document.body.style.top = ''
+      document.body.style.width = ''
+      window.scrollTo({ top, behavior: 'instant' as ScrollBehavior })
+    }
+    return () => {
+      document.body.style.position = ''
+      document.body.style.top = ''
+      document.body.style.width = ''
+    }
+  }, [showAbout])
+
   const { scope_type, scope_id } = getScope(filter)
   const selectedScopeKey = `${scope_type}:${scope_id}`
   const data = useData(scope_type, scope_id, filter.yearRange)
