@@ -126,10 +126,12 @@ export default function App() {
 
   useEffect(() => {
     if (showAbout) {
-      const y = window.scrollY
+      const y = sceneStartY()
+      window.scrollTo({ top: y, behavior: 'auto' })
       document.body.style.position = 'fixed'
       document.body.style.top = `-${y}px`
       document.body.style.width = '100%'
+      filmViewRef.current = true
     } else {
       const top = Number.parseFloat(document.body.style.top || '0') * -1
       document.body.style.position = ''
@@ -433,10 +435,7 @@ export default function App() {
           setShowAbout(false)
         }}
         showAbout={showAbout}
-        onAboutToggle={() => {
-          setShowAbout(v => !v)
-          smoothSnapTo(sceneStartY())
-        }}
+        onAboutToggle={() => setShowAbout(v => !v)}
       />
 
       <section id="hero">
