@@ -113,7 +113,7 @@ export default function BubblePlot({ data, filter, mode }: Props) {
 
   const title = mode === 'popularity' ? 'Popularity Bubble' : 'Budget vs Profit'
 
-  const genreSelect = mode === 'popularity' && genres.length > 0 ? (
+  const headerRight = mode === 'popularity' && genres.length > 0 ? (
     <select
       value={selectedGenre ?? ''}
       onChange={e => setSelectedGenre(e.target.value || null)}
@@ -125,10 +125,14 @@ export default function BubblePlot({ data, filter, mode }: Props) {
       <option value="">All Genres</option>
       {genres.map(g => <option key={g} value={g}>{g}</option>)}
     </select>
+  ) : mode === 'financial' ? (
+    <span style={{ fontFamily: '"JetBrains Mono", monospace', fontSize: '0.58rem', color: '#9E9589', whiteSpace: 'nowrap' }}>
+      ∅ = film count
+    </span>
   ) : undefined
 
   return (
-    <ChartPanel title={title} right={genreSelect}>
+    <ChartPanel title={title} right={headerRight}>
       <Plot
         data={traces}
         layout={{

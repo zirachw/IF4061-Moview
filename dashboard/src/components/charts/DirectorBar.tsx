@@ -37,7 +37,7 @@ export default function DirectorBar({ data, filter }: Props) {
   const [entityType, setEntityType] = useState<PeopleEntityType>('director')
   const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
 
-  const { bars, barColors, genres } = useMemo(() => {
+  const { bars, barColors, barGenres, genres } = useMemo(() => {
     const allRows = filterAgg(data.peopleAgg, filter).filter(r => r.entity_type === entityType)
     const genres = [...new Set(allRows.map(r => r.genre).filter(Boolean) as string[])].sort()
     const rows = selectedGenre ? allRows.filter(r => r.genre === selectedGenre) : allRows
@@ -56,14 +56,16 @@ export default function DirectorBar({ data, filter }: Props) {
       .sort((a, b) => a[1] - b[1])
       .slice(-15)
     const fallback = ENTITY_COLORS[entityType]
-    const barColors = bars.map(([name]) => {
-      if (selectedGenre) return genreColor(selectedGenre)
+    const barColors: string[] = []
+    const barGenres: string[] = []
+    for (const [name] of bars) {
       const gm = entityGenreMap.get(name)
-      if (!gm) return fallback
-      const dominant = [...gm.entries()].sort((a, b) => b[1] - a[1])[0]?.[0]
-      return dominant ? genreColor(dominant) : fallback
-    })
-    return { bars, barColors, genres }
+      const dominant = gm ? ([...gm.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] ?? null) : null
+      const genre = selectedGenre ?? dominant
+      barGenres.push(genre ?? '—')
+      barColors.push(genre ? genreColor(genre) : fallback)
+    }
+    return { bars, barColors, barGenres, genres }
   }, [data.peopleAgg, filter, entityType, selectedGenre])
 
   return (
@@ -105,10 +107,11 @@ export default function DirectorBar({ data, filter }: Props) {
             line: { color: 'rgba(0,0,0,0.3)', width: 0.5 },
           },
           text: bars.map(([, v]) => fmtCount(v)),
+          customdata: barGenres,
           textposition: 'outside',
           textfont: { color: '#9E9589', size: 8 },
           cliponaxis: false,
-          hovertemplate: '<b>%{y}</b><br>%{text}<extra></extra>',
+          hovertemplate: '<b>%{y}</b><br>%{text} films<br>%{customdata}<extra></extra>',
         }]}
         layout={{
           paper_bgcolor: 'transparent',

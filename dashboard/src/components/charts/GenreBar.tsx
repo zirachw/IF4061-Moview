@@ -6,7 +6,7 @@ import ChartPanel from '../ui/ChartPanel'
 
 interface Props { data: AppData; filter: FilterState }
 
-type Metric = 'revenue' | 'profit' | 'budget'
+type Metric = 'films' | 'revenue' | 'profit' | 'budget'
 
 export default function GenreBar({ data, filter }: Props) {
   const [metric, setMetric] = useState<Metric>('revenue')
@@ -16,7 +16,8 @@ export default function GenreBar({ data, filter }: Props) {
     const map = new Map<string, number>()
     for (const r of rows) {
       const g = r.genre!
-      const val = metric === 'revenue' ? r.revenue_sum
+      const val = metric === 'films' ? r.film_count
+        : metric === 'revenue' ? r.revenue_sum
         : metric === 'profit' ? r.profit_sum
         : r.budget_sum
       map.set(g, (map.get(g) ?? 0) + val)
@@ -27,16 +28,17 @@ export default function GenreBar({ data, filter }: Props) {
       .slice(-12)
   }, [data.genreAgg, filter, metric])
 
-  const labels = fmtMoney
+  const fmtVal = (v: number) => metric === 'films' ? String(v) : fmtMoney(v)
 
   return (
     <ChartPanel
       title="Top Genres"
       metric={metric}
       metrics={[
-        { value: 'revenue', label: 'Rev' },
-        { value: 'profit', label: 'Profit' },
-        { value: 'budget', label: 'Budget' },
+        { value: 'films',   label: 'Films'  },
+        { value: 'revenue', label: 'Rev'    },
+        { value: 'profit',  label: 'Profit' },
+        { value: 'budget',  label: 'Budget' },
       ]}
       onMetric={setMetric}
     >
@@ -47,7 +49,7 @@ export default function GenreBar({ data, filter }: Props) {
           x: bars.map(([, v]) => v),
           y: bars.map(([g]) => g),
           marker: { color: bars.map(([g]) => genreColor(g)) },
-          text: bars.map(([, v]) => labels(v)),
+          text: bars.map(([, v]) => fmtVal(v)),
           textposition: 'outside',
           textfont: { color: '#9E9589', size: 9 },
           cliponaxis: false,
@@ -56,6 +58,7 @@ export default function GenreBar({ data, filter }: Props) {
         layout={{
           ...DARK_LAYOUT,
           margin: { l: 90, r: 56, t: 8, b: 8 },
+          bargap: 0.35,
           xaxis: { ...DARK_AXIS, showgrid: false, showticklabels: false, zeroline: false },
           yaxis: {
             ...DARK_AXIS, showgrid: false, tickfont: { color: '#F5F0E8', size: 8 },

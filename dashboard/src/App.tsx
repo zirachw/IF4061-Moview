@@ -419,22 +419,23 @@ export default function App() {
           />
         </div>
 
-        <div style={{ minHeight: 0, flex: 1, overflow: 'hidden' }}>
-          {showAbout ? (
-            <FilmRoll><ClapperAbout /></FilmRoll>
-          ) : (
-            <FilmRoll>
-              {(['popularity', 'financial', 'genre', 'people'] as TabId[]).map(tab => (
-                mountedTabs.has(tab) && (
-                  <div key={tab} style={{ ...TAB_PANEL_STYLE, display: activeTab === tab ? 'block' : 'none' }}>
-                    {tab === 'popularity' && <PopularityTab data={data} filter={filter} />}
-                    {tab === 'financial' && <FinancialTab data={data} filter={filter} />}
-                    {tab === 'genre' && <GenreTab data={data} filter={filter} />}
-                    {tab === 'people' && <PeopleTab data={data} filter={filter} />}
-                  </div>
-                )
-              ))}
-            </FilmRoll>
+        <div style={{ minHeight: 0, flex: 1, overflow: 'hidden', position: 'relative' }}>
+          <FilmRoll>
+            {(['popularity', 'financial', 'genre', 'people'] as TabId[]).map(tab => (
+              mountedTabs.has(tab) && (
+                <div key={tab} style={{ ...TAB_PANEL_STYLE, display: activeTab === tab ? 'block' : 'none' }}>
+                  {tab === 'popularity' && <PopularityTab data={data} filter={filter} />}
+                  {tab === 'financial' && <FinancialTab data={data} filter={filter} />}
+                  {tab === 'genre' && <GenreTab data={data} filter={filter} />}
+                  {tab === 'people' && <PeopleTab data={data} filter={filter} />}
+                </div>
+              )
+            ))}
+          </FilmRoll>
+          {showAbout && (
+            <div style={{ position: 'absolute', inset: 0, zIndex: 10 }}>
+              <ClapperAbout />
+            </div>
           )}
         </div>
       </div>
