@@ -102,17 +102,25 @@ export default function RadialBar({ data, filter }: Props) {
           })}
         </svg>
         <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '0.5rem 0.9rem' }}>
-          {counts.map(t => (
-            <div key={t.label} style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
-              <div style={{ width: 8, height: 8, borderRadius: 2, backgroundColor: t.color }} />
-              <span style={{ fontFamily: 'Inter, sans-serif', fontSize: '0.62rem', color: '#9E9589' }}>
-                {t.label}
-              </span>
-              <span style={{ fontFamily: '"JetBrains Mono", monospace', fontSize: '0.6rem', color: '#F5F0E8' }}>
-                {total > 0 ? `${Math.round((t.count / total) * 100)}%` : '—'}
-              </span>
-            </div>
-          ))}
+          {counts.map(t => {
+            const range = t.max === Infinity ? `≥ ${t.min}`
+              : t.min === -Infinity ? `< ${t.max}`
+              : `${t.min}–${t.max}`
+            return (
+              <div key={t.label} style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
+                <div style={{ width: 8, height: 8, borderRadius: 2, backgroundColor: t.color }} />
+                <span style={{ fontFamily: 'Inter, sans-serif', fontSize: '0.62rem', color: '#9E9589' }}>
+                  {t.label}
+                </span>
+                <span style={{ fontFamily: '"JetBrains Mono", monospace', fontSize: '0.55rem', color: '#4A4540' }}>
+                  {range}
+                </span>
+                <span style={{ fontFamily: '"JetBrains Mono", monospace', fontSize: '0.6rem', color: '#F5F0E8' }}>
+                  {total > 0 ? `${Math.round((t.count / total) * 100)}%` : '—'}
+                </span>
+              </div>
+            )
+          })}
         </div>
       </div>
     </ChartPanel>

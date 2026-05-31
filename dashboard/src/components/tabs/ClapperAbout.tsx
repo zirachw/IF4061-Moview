@@ -69,7 +69,7 @@ export default function ClapperAbout() {
       <Row>
         <Cell label="DATE" value="2025/2026" />
         <VDiv />
-        <Cell label="GRAPHIC" value="Interactive Visualization" flex={1.5} />
+        <Cell label="GRAPHIC" value="Interactive Dashboard" flex={1.5} />
       </Row>
       <div style={{ flex: 1, display: 'flex', minHeight: 0 }}>
         <Cell label="DATASET" value="Kaggle TMDB Film" />
