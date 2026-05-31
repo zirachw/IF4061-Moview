@@ -126,22 +126,11 @@ export default function App() {
 
   useEffect(() => {
     if (showAbout) {
-      const y = sceneStartY()
-      document.body.style.position = 'fixed'
-      document.body.style.top = `-${y}px`
-      document.body.style.width = '100%'
+      document.documentElement.style.overflow = 'hidden'
     } else {
-      const top = Number.parseFloat(document.body.style.top || '0') * -1
-      document.body.style.position = ''
-      document.body.style.top = ''
-      document.body.style.width = ''
-      window.scrollTo({ top, behavior: 'instant' as ScrollBehavior })
+      document.documentElement.style.overflow = ''
     }
-    return () => {
-      document.body.style.position = ''
-      document.body.style.top = ''
-      document.body.style.width = ''
-    }
+    return () => { document.documentElement.style.overflow = '' }
   }, [showAbout])
 
   const { scope_type, scope_id } = getScope(filter)
