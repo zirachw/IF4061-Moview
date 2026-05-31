@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-05-31T06:51:20.925198+00:00",
+  "year_min": 1950,
+  "year_max": 2023,
+  "scopes": [
+    {
+      "scope_type": "continent",
+      "scope_id": "Africa",
+      "path": "scope/continent/Africa"
+    },
+    {
+      "scope_type": "continent",
+      "scope_id": "Asia",
+      "path": "scope/continent/Asia"
+    },
+    {
+      "scope_type": "continent",
+      "scope_id": "Europe",
+      "path": "scope/continent/Europe"
+    },
+    {
+      "scope_type": "continent",
+      "scope_id": "North America",
+      "path": "scope/continent/North_America"
+    },
+    {
+      "scope_type": "continent",
+      "scope_id": "Oceania",
+      "path": "scope/continent/Oceania"
+    },
+    {
+      "scope_type": "continent",
+      "scope_id": "South America",
+      "path": "scope/continent/South_America"
+    },
+    {
+      "scope_type": "world",
+      "scope_id": "WORLD",
+      "path": "scope/world"
+    }
+  ],
+  "scope_files": [
+    "financial_agg.json",
+    "genre_agg.json",
+    "genre_pair_agg.json",
+    "keyword_agg.json",
+    "kpi.json",
+    "kpi_language.json",
+    "kpi_tiles.json",
+    "people_agg.json",
+    "top_movies.json"
+  ],
+  "core_files": [
+    "manifest.json",
+    "geo_summary.json",
+    "kpi.json",
+    "kpi_tiles.json",
+    "kpi_language.json",
+    "movies.json",
+    "countries.geojson",
+    "continents.geojson"
+  ]
+}

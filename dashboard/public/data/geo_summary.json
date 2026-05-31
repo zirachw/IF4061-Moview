@@ -1,0 +1,922 @@
+[
+  {
+    "iso_a2": "AE",
+    "name": "United Arab Emirates",
+    "continent": "Asia",
+    "film_count": 18,
+    "avg_profit": 41942030.333333336,
+    "avg_rating": 6.331722222222222
+  },
+  {
+    "iso_a2": "AF",
+    "name": "Afghanistan",
+    "continent": "Asia",
+    "film_count": 4,
+    "avg_profit": null,
+    "avg_rating": 6.7635000000000005
+  },
+  {
+    "iso_a2": "AL",
+    "name": "Albania",
+    "continent": "Europe",
+    "film_count": 5,
+    "avg_profit": null,
+    "avg_rating": 6.289
+  },
+  {
+    "iso_a2": "AM",
+    "name": "Armenia",
+    "continent": "Asia",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.709
+  },
+  {
+    "iso_a2": "AO",
+    "name": "Angola",
+    "continent": "Africa",
+    "film_count": 2,
+    "avg_profit": null,
+    "avg_rating": 6.314
+  },
+  {
+    "iso_a2": "AR",
+    "name": "Argentina",
+    "continent": "South America",
+    "film_count": 158,
+    "avg_profit": 4094714.962962963,
+    "avg_rating": 6.654120253164558
+  },
+  {
+    "iso_a2": "AT",
+    "name": "Austria",
+    "continent": "Europe",
+    "film_count": 94,
+    "avg_profit": 7528101.8,
+    "avg_rating": 6.62504255319149
+  },
+  {
+    "iso_a2": "AU",
+    "name": "Australia",
+    "continent": "Oceania",
+    "film_count": 409,
+    "avg_profit": 41574125.955882356,
+    "avg_rating": 6.298596577017114
+  },
+  {
+    "iso_a2": "AZ",
+    "name": "Azerbaijan",
+    "continent": "Asia",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.779
+  },
+  {
+    "iso_a2": "BA",
+    "name": "Bosnia and Herzegovina",
+    "continent": "Europe",
+    "film_count": 7,
+    "avg_profit": null,
+    "avg_rating": 6.821142857142857
+  },
+  {
+    "iso_a2": "BE",
+    "name": "Belgium",
+    "continent": "Europe",
+    "film_count": 516,
+    "avg_profit": 3085585.4054054054,
+    "avg_rating": 6.4045116279069765
+  },
+  {
+    "iso_a2": "BF",
+    "name": "Burkina Faso",
+    "continent": "Africa",
+    "film_count": 2,
+    "avg_profit": null,
+    "avg_rating": 6.8125
+  },
+  {
+    "iso_a2": "BG",
+    "name": "Bulgaria",
+    "continent": "Europe",
+    "film_count": 35,
+    "avg_profit": 51296444.190476194,
+    "avg_rating": 6.192057142857143
+  },
+  {
+    "iso_a2": "BO",
+    "name": "Bolivia",
+    "continent": "South America",
+    "film_count": 4,
+    "avg_profit": null,
+    "avg_rating": 6.81625
+  },
+  {
+    "iso_a2": "BR",
+    "name": "Brazil",
+    "continent": "South America",
+    "film_count": 263,
+    "avg_profit": 12762791.2,
+    "avg_rating": 6.714250950570342
+  },
+  {
+    "iso_a2": "BS",
+    "name": "Bahamas",
+    "continent": "North America",
+    "film_count": 3,
+    "avg_profit": 13040327.0,
+    "avg_rating": 5.139
+  },
+  {
+    "iso_a2": "BT",
+    "name": "Bhutan",
+    "continent": "Asia",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 7.414
+  },
+  {
+    "iso_a2": "BW",
+    "name": "Botswana",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 7.114
+  },
+  {
+    "iso_a2": "BY",
+    "name": "Belarus",
+    "continent": "Europe",
+    "film_count": 4,
+    "avg_profit": -4095271.0,
+    "avg_rating": 6.9805
+  },
+  {
+    "iso_a2": "CA",
+    "name": "Canada",
+    "continent": "North America",
+    "film_count": 1335,
+    "avg_profit": 37139222.04087193,
+    "avg_rating": 6.104284644194757
+  },
+  {
+    "iso_a2": "CG",
+    "name": "Republic of the Congo",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 7.946
+  },
+  {
+    "iso_a2": "CH",
+    "name": "Switzerland",
+    "continent": "Europe",
+    "film_count": 32,
+    "avg_profit": 35134733.8125,
+    "avg_rating": 6.3551874999999995
+  },
+  {
+    "iso_a2": "CL",
+    "name": "Chile",
+    "continent": "South America",
+    "film_count": 47,
+    "avg_profit": 741835.1666666666,
+    "avg_rating": 6.60927659574468
+  },
+  {
+    "iso_a2": "CM",
+    "name": "Cameroon",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.846
+  },
+  {
+    "iso_a2": "CN",
+    "name": "China",
+    "continent": "Asia",
+    "film_count": 365,
+    "avg_profit": 96942995.9469697,
+    "avg_rating": 6.6902410958904115
+  },
+  {
+    "iso_a2": "CO",
+    "name": "Colombia",
+    "continent": "South America",
+    "film_count": 28,
+    "avg_profit": 83511855.0,
+    "avg_rating": 7.058821428571428
+  },
+  {
+    "iso_a2": "CR",
+    "name": "Costa Rica",
+    "continent": "North America",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 7.0
+  },
+  {
+    "iso_a2": "CU",
+    "name": "Cuba",
+    "continent": "North America",
+    "film_count": 11,
+    "avg_profit": null,
+    "avg_rating": 7.030363636363637
+  },
+  {
+    "iso_a2": "CY",
+    "name": "Cyprus",
+    "continent": "Asia",
+    "film_count": 3,
+    "avg_profit": 19039427.5,
+    "avg_rating": 6.518666666666667
+  },
+  {
+    "iso_a2": "CZ",
+    "name": "Czech Republic",
+    "continent": "Europe",
+    "film_count": 63,
+    "avg_profit": 40069389.71428572,
+    "avg_rating": 6.596904761904762
+  },
+  {
+    "iso_a2": "DE",
+    "name": "Germany",
+    "continent": "Europe",
+    "film_count": 911,
+    "avg_profit": 34276766.307692304,
+    "avg_rating": 6.403374313940724
+  },
+  {
+    "iso_a2": "DK",
+    "name": "Denmark",
+    "continent": "Europe",
+    "film_count": 196,
+    "avg_profit": 9798153.69047619,
+    "avg_rating": 6.632448979591837
+  },
+  {
+    "iso_a2": "DO",
+    "name": "Dominican Republic",
+    "continent": "North America",
+    "film_count": 7,
+    "avg_profit": 56698461.0,
+    "avg_rating": 7.46
+  },
+  {
+    "iso_a2": "DZ",
+    "name": "Algeria",
+    "continent": "Africa",
+    "film_count": 9,
+    "avg_profit": -9032906.0,
+    "avg_rating": 7.006555555555555
+  },
+  {
+    "iso_a2": "EC",
+    "name": "Ecuador",
+    "continent": "South America",
+    "film_count": 2,
+    "avg_profit": 9450821.0,
+    "avg_rating": 7.6485
+  },
+  {
+    "iso_a2": "EE",
+    "name": "Estonia",
+    "continent": "Europe",
+    "film_count": 9,
+    "avg_profit": -836212.0,
+    "avg_rating": 6.877888888888889
+  },
+  {
+    "iso_a2": "EG",
+    "name": "Egypt",
+    "continent": "Africa",
+    "film_count": 12,
+    "avg_profit": -14300000.0,
+    "avg_rating": 7.170416666666667
+  },
+  {
+    "iso_a2": "ES",
+    "name": "Spain",
+    "continent": "Europe",
+    "film_count": 497,
+    "avg_profit": 12437307.630434783,
+    "avg_rating": 6.313406438631791
+  },
+  {
+    "iso_a2": "ET",
+    "name": "Ethiopia",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.213
+  },
+  {
+    "iso_a2": "FI",
+    "name": "Finland",
+    "continent": "Europe",
+    "film_count": 48,
+    "avg_profit": 26462377.5,
+    "avg_rating": 6.5920625
+  },
+  {
+    "iso_a2": "FR",
+    "name": "France",
+    "continent": "Europe",
+    "film_count": 2585,
+    "avg_profit": 24111040.96347032,
+    "avg_rating": 6.3968560928433265
+  },
+  {
+    "iso_a2": "GB",
+    "name": "United Kingdom",
+    "continent": "Europe",
+    "film_count": 1891,
+    "avg_profit": 75140880.31460674,
+    "avg_rating": 6.457320994182972
+  },
+  {
+    "iso_a2": "GE",
+    "name": "Georgia",
+    "continent": "Asia",
+    "film_count": 4,
+    "avg_profit": null,
+    "avg_rating": 5.7787500000000005
+  },
+  {
+    "iso_a2": "GH",
+    "name": "Ghana",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": 3077700.0,
+    "avg_rating": 7.595
+  },
+  {
+    "iso_a2": "GR",
+    "name": "Greece",
+    "continent": "Europe",
+    "film_count": 27,
+    "avg_profit": 1611202.6,
+    "avg_rating": 6.549777777777778
+  },
+  {
+    "iso_a2": "GT",
+    "name": "Guatemala",
+    "continent": "North America",
+    "film_count": 5,
+    "avg_profit": null,
+    "avg_rating": 6.737
+  },
+  {
+    "iso_a2": "HK",
+    "name": "Hong Kong",
+    "continent": "Asia",
+    "film_count": 311,
+    "avg_profit": 41355453.729166664,
+    "avg_rating": 6.643450160771704
+  },
+  {
+    "iso_a2": "HN",
+    "name": "Honduras",
+    "continent": "North America",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.484
+  },
+  {
+    "iso_a2": "HR",
+    "name": "Croatia",
+    "continent": "Europe",
+    "film_count": 7,
+    "avg_profit": -332547.0,
+    "avg_rating": 6.929428571428572
+  },
+  {
+    "iso_a2": "HU",
+    "name": "Hungary",
+    "continent": "Europe",
+    "film_count": 45,
+    "avg_profit": 18921754.222222224,
+    "avg_rating": 6.698822222222223
+  },
+  {
+    "iso_a2": "ID",
+    "name": "Indonesia",
+    "continent": "Asia",
+    "film_count": 24,
+    "avg_profit": 24517183.0,
+    "avg_rating": 6.300166666666667
+  },
+  {
+    "iso_a2": "IE",
+    "name": "Ireland",
+    "continent": "Europe",
+    "film_count": 131,
+    "avg_profit": 11312029.457142858,
+    "avg_rating": 6.443786259541985
+  },
+  {
+    "iso_a2": "IL",
+    "name": "Israel",
+    "continent": "Asia",
+    "film_count": 22,
+    "avg_profit": -483899.3333333333,
+    "avg_rating": 6.157272727272727
+  },
+  {
+    "iso_a2": "IN",
+    "name": "India",
+    "continent": "Asia",
+    "film_count": 519,
+    "avg_profit": 22381563.897777777,
+    "avg_rating": 6.700976878612717
+  },
+  {
+    "iso_a2": "IR",
+    "name": "Iran",
+    "continent": "Asia",
+    "film_count": 32,
+    "avg_profit": 745402.0,
+    "avg_rating": 7.2554375
+  },
+  {
+    "iso_a2": "IS",
+    "name": "Iceland",
+    "continent": "Europe",
+    "film_count": 25,
+    "avg_profit": 44637027.6,
+    "avg_rating": 6.4462
+  },
+  {
+    "iso_a2": "IT",
+    "name": "Italy",
+    "continent": "Europe",
+    "film_count": 1309,
+    "avg_profit": 13636109.054347826,
+    "avg_rating": 6.237550038197098
+  },
+  {
+    "iso_a2": "JM",
+    "name": "Jamaica",
+    "continent": "North America",
+    "film_count": 2,
+    "avg_profit": null,
+    "avg_rating": 7.0905000000000005
+  },
+  {
+    "iso_a2": "JO",
+    "name": "Jordan",
+    "continent": "Asia",
+    "film_count": 2,
+    "avg_profit": null,
+    "avg_rating": 6.611000000000001
+  },
+  {
+    "iso_a2": "JP",
+    "name": "Japan",
+    "continent": "Asia",
+    "film_count": 1118,
+    "avg_profit": 51918116.282608695,
+    "avg_rating": 7.006425760286225
+  },
+  {
+    "iso_a2": "KE",
+    "name": "Kenya",
+    "continent": "Africa",
+    "film_count": 2,
+    "avg_profit": null,
+    "avg_rating": 6.4575
+  },
+  {
+    "iso_a2": "KH",
+    "name": "Cambodia",
+    "continent": "Asia",
+    "film_count": 4,
+    "avg_profit": 17305571.0,
+    "avg_rating": 7.06825
+  },
+  {
+    "iso_a2": "KR",
+    "name": "Republic of Korea",
+    "continent": "Asia",
+    "film_count": 409,
+    "avg_profit": 28454368.753846154,
+    "avg_rating": 7.029097799511002
+  },
+  {
+    "iso_a2": "KW",
+    "name": "Kuwait",
+    "continent": "Asia",
+    "film_count": 1,
+    "avg_profit": 5000000.0,
+    "avg_rating": 7.26
+  },
+  {
+    "iso_a2": "KZ",
+    "name": "Kazakhstan",
+    "continent": "Asia",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.962
+  },
+  {
+    "iso_a2": "LB",
+    "name": "Lebanon",
+    "continent": "Asia",
+    "film_count": 2,
+    "avg_profit": 2375893.0,
+    "avg_rating": 5.9855
+  },
+  {
+    "iso_a2": "LK",
+    "name": "Sri Lanka",
+    "continent": "Asia",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 5.732
+  },
+  {
+    "iso_a2": "LR",
+    "name": "Liberia",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.241
+  },
+  {
+    "iso_a2": "LT",
+    "name": "Lithuania",
+    "continent": "Europe",
+    "film_count": 4,
+    "avg_profit": null,
+    "avg_rating": 6.16875
+  },
+  {
+    "iso_a2": "LU",
+    "name": "Luxembourg",
+    "continent": "Europe",
+    "film_count": 14,
+    "avg_profit": -5957091.333333333,
+    "avg_rating": 5.919
+  },
+  {
+    "iso_a2": "LV",
+    "name": "Latvia",
+    "continent": "Europe",
+    "film_count": 5,
+    "avg_profit": null,
+    "avg_rating": 6.1502
+  },
+  {
+    "iso_a2": "MA",
+    "name": "Morocco",
+    "continent": "Africa",
+    "film_count": 9,
+    "avg_profit": -6700564.666666667,
+    "avg_rating": 6.196555555555556
+  },
+  {
+    "iso_a2": "MK",
+    "name": "North Macedonia",
+    "continent": "Europe",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 7.928
+  },
+  {
+    "iso_a2": "MM",
+    "name": "Myanmar",
+    "continent": "Asia",
+    "film_count": 1,
+    "avg_profit": -12758482.0,
+    "avg_rating": 6.662
+  },
+  {
+    "iso_a2": "MN",
+    "name": "Mongolia",
+    "continent": "Asia",
+    "film_count": 3,
+    "avg_profit": null,
+    "avg_rating": 7.181333333333334
+  },
+  {
+    "iso_a2": "MW",
+    "name": "Malawi",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 7.93
+  },
+  {
+    "iso_a2": "MX",
+    "name": "Mexico",
+    "continent": "North America",
+    "film_count": 319,
+    "avg_profit": 17384248.171428572,
+    "avg_rating": 7.0454231974921635
+  },
+  {
+    "iso_a2": "MY",
+    "name": "Malaysia",
+    "continent": "Asia",
+    "film_count": 5,
+    "avg_profit": -5107781.666666667,
+    "avg_rating": 5.6386
+  },
+  {
+    "iso_a2": "NA",
+    "name": "Namibia",
+    "continent": "Africa",
+    "film_count": 2,
+    "avg_profit": -11807560.0,
+    "avg_rating": 6.1665
+  },
+  {
+    "iso_a2": "NG",
+    "name": "Nigeria",
+    "continent": "Africa",
+    "film_count": 2,
+    "avg_profit": null,
+    "avg_rating": 6.168
+  },
+  {
+    "iso_a2": "NL",
+    "name": "Netherlands",
+    "continent": "Europe",
+    "film_count": 93,
+    "avg_profit": -1289533.4705882352,
+    "avg_rating": 6.249849462365591
+  },
+  {
+    "iso_a2": "NO",
+    "name": "Norway",
+    "continent": "Europe",
+    "film_count": 62,
+    "avg_profit": -3729091.0,
+    "avg_rating": 6.389822580645161
+  },
+  {
+    "iso_a2": "NZ",
+    "name": "New Zealand",
+    "continent": "Oceania",
+    "film_count": 68,
+    "avg_profit": 300594494.15789473,
+    "avg_rating": 6.5355147058823535
+  },
+  {
+    "iso_a2": "PA",
+    "name": "Panama",
+    "continent": "North America",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.478
+  },
+  {
+    "iso_a2": "PE",
+    "name": "Peru",
+    "continent": "South America",
+    "film_count": 8,
+    "avg_profit": 125362582.0,
+    "avg_rating": 6.67875
+  },
+  {
+    "iso_a2": "PH",
+    "name": "Philippines",
+    "continent": "Asia",
+    "film_count": 16,
+    "avg_profit": 45830323.666666664,
+    "avg_rating": 6.194
+  },
+  {
+    "iso_a2": "PK",
+    "name": "Pakistan",
+    "continent": "Asia",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 7.95
+  },
+  {
+    "iso_a2": "PL",
+    "name": "Poland",
+    "continent": "Europe",
+    "film_count": 154,
+    "avg_profit": 1172673.4,
+    "avg_rating": 6.608623376623377
+  },
+  {
+    "iso_a2": "PR",
+    "name": "Puerto Rico",
+    "continent": "North America",
+    "film_count": 11,
+    "avg_profit": -14708718.666666666,
+    "avg_rating": 6.482454545454545
+  },
+  {
+    "iso_a2": "PT",
+    "name": "Portugal",
+    "continent": "Europe",
+    "film_count": 10,
+    "avg_profit": null,
+    "avg_rating": 6.3158
+  },
+  {
+    "iso_a2": "PY",
+    "name": "Paraguay",
+    "continent": "South America",
+    "film_count": 3,
+    "avg_profit": null,
+    "avg_rating": 6.946666666666666
+  },
+  {
+    "iso_a2": "QA",
+    "name": "Qatar",
+    "continent": "Asia",
+    "film_count": 3,
+    "avg_profit": null,
+    "avg_rating": 7.080000000000001
+  },
+  {
+    "iso_a2": "RO",
+    "name": "Romania",
+    "continent": "Europe",
+    "film_count": 48,
+    "avg_profit": 5515420.4,
+    "avg_rating": 5.821083333333333
+  },
+  {
+    "iso_a2": "RS",
+    "name": "Serbia",
+    "continent": "Europe",
+    "film_count": 11,
+    "avg_profit": null,
+    "avg_rating": 6.182272727272727
+  },
+  {
+    "iso_a2": "RU",
+    "name": "Russia",
+    "continent": "Europe",
+    "film_count": 194,
+    "avg_profit": 5893334.547945205,
+    "avg_rating": 6.514103092783506
+  },
+  {
+    "iso_a2": "RW",
+    "name": "Rwanda",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 7.105
+  },
+  {
+    "iso_a2": "SA",
+    "name": "Saudi Arabia",
+    "continent": "Asia",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.325
+  },
+  {
+    "iso_a2": "SE",
+    "name": "Sweden",
+    "continent": "Europe",
+    "film_count": 108,
+    "avg_profit": 12803203.076923076,
+    "avg_rating": 6.752999999999999
+  },
+  {
+    "iso_a2": "SI",
+    "name": "Slovenia",
+    "continent": "Europe",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.7
+  },
+  {
+    "iso_a2": "SK",
+    "name": "Slovakia",
+    "continent": "Europe",
+    "film_count": 3,
+    "avg_profit": 23469047.0,
+    "avg_rating": 6.698
+  },
+  {
+    "iso_a2": "SN",
+    "name": "Senegal",
+    "continent": "Africa",
+    "film_count": 2,
+    "avg_profit": null,
+    "avg_rating": 6.6665
+  },
+  {
+    "iso_a2": "SY",
+    "name": "Syria",
+    "continent": "Asia",
+    "film_count": 2,
+    "avg_profit": null,
+    "avg_rating": 7.6285
+  },
+  {
+    "iso_a2": "TH",
+    "name": "Thailand",
+    "continent": "Asia",
+    "film_count": 50,
+    "avg_profit": 15500714.833333334,
+    "avg_rating": 6.34398
+  },
+  {
+    "iso_a2": "TN",
+    "name": "Tunisia",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 6.743
+  },
+  {
+    "iso_a2": "TR",
+    "name": "Turkey",
+    "continent": "Asia",
+    "film_count": 156,
+    "avg_profit": 2621226.294117647,
+    "avg_rating": 6.796326923076924
+  },
+  {
+    "iso_a2": "TW",
+    "name": "Taiwan",
+    "continent": "Asia",
+    "film_count": 47,
+    "avg_profit": 12164879.666666666,
+    "avg_rating": 6.818382978723404
+  },
+  {
+    "iso_a2": "TZ",
+    "name": "Tanzania",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 8.601
+  },
+  {
+    "iso_a2": "UA",
+    "name": "Ukraine",
+    "continent": "Europe",
+    "film_count": 7,
+    "avg_profit": 3755073.3333333335,
+    "avg_rating": 6.9639999999999995
+  },
+  {
+    "iso_a2": "UG",
+    "name": "Uganda",
+    "continent": "Africa",
+    "film_count": 2,
+    "avg_profit": 14911882.0,
+    "avg_rating": 6.7204999999999995
+  },
+  {
+    "iso_a2": "US",
+    "name": "United States",
+    "continent": "North America",
+    "film_count": 11442,
+    "avg_profit": 67702124.04201303,
+    "avg_rating": 6.256365408145429
+  },
+  {
+    "iso_a2": "UY",
+    "name": "Uruguay",
+    "continent": "South America",
+    "film_count": 6,
+    "avg_profit": 28794509.0,
+    "avg_rating": 6.461166666666667
+  },
+  {
+    "iso_a2": "VE",
+    "name": "Venezuela",
+    "continent": "South America",
+    "film_count": 10,
+    "avg_profit": 4288899.0,
+    "avg_rating": 7.098699999999999
+  },
+  {
+    "iso_a2": "VN",
+    "name": "Vietnam",
+    "continent": "Asia",
+    "film_count": 3,
+    "avg_profit": 5890000.0,
+    "avg_rating": 6.640666666666667
+  },
+  {
+    "iso_a2": "ZA",
+    "name": "South Africa",
+    "continent": "Africa",
+    "film_count": 62,
+    "avg_profit": 4635166.083333333,
+    "avg_rating": 6.064403225806451
+  },
+  {
+    "iso_a2": "ZM",
+    "name": "Zambia",
+    "continent": "Africa",
+    "film_count": 1,
+    "avg_profit": null,
+    "avg_rating": 5.236
+  }
+]

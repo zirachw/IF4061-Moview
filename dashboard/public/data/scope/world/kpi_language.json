@@ -1,0 +1,9438 @@
+[
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1950.0,
+    "language": "English",
+    "film_count": 40
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1950.0,
+    "language": "French",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1950.0,
+    "language": "Italian",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1950.0,
+    "language": "Japanese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1950.0,
+    "language": "Spanish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1950.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1951.0,
+    "language": "English",
+    "film_count": 45
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1951.0,
+    "language": "French",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1951.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1951.0,
+    "language": "Italian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1951.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1951.0,
+    "language": "Spanish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1951.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1952.0,
+    "language": "English",
+    "film_count": 41
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1952.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1952.0,
+    "language": "French",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1952.0,
+    "language": "Italian",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1952.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1952.0,
+    "language": "Spanish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1952.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1953.0,
+    "language": "English",
+    "film_count": 56
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1953.0,
+    "language": "French",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1953.0,
+    "language": "Italian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1953.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1953.0,
+    "language": "Spanish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1953.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1954.0,
+    "language": "English",
+    "film_count": 42
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1954.0,
+    "language": "French",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1954.0,
+    "language": "Italian",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1954.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1954.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "Danish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "English",
+    "film_count": 55
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "French",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "Italian",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "Spanish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1955.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1956.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1956.0,
+    "language": "English",
+    "film_count": 47
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1956.0,
+    "language": "French",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1956.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1956.0,
+    "language": "Italian",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1956.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1956.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1957.0,
+    "language": "English",
+    "film_count": 49
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1957.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1957.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1957.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1957.0,
+    "language": "Italian",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1957.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1957.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1957.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1957.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1957.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "English",
+    "film_count": 55
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "French",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "Italian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1958.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1959.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1959.0,
+    "language": "English",
+    "film_count": 50
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1959.0,
+    "language": "French",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1959.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1959.0,
+    "language": "Italian",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1959.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1959.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1959.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1959.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1959.0,
+    "language": "Spanish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1960.0,
+    "language": "English",
+    "film_count": 44
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1960.0,
+    "language": "French",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1960.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1960.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1960.0,
+    "language": "Italian",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1960.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1960.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1960.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1960.0,
+    "language": "Spanish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1960.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1961.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1961.0,
+    "language": "Danish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1961.0,
+    "language": "English",
+    "film_count": 45
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1961.0,
+    "language": "French",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1961.0,
+    "language": "Italian",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1961.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1961.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1961.0,
+    "language": "Russian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1961.0,
+    "language": "Spanish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1961.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1962.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1962.0,
+    "language": "English",
+    "film_count": 51
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1962.0,
+    "language": "French",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1962.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1962.0,
+    "language": "Italian",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1962.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1962.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1962.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1962.0,
+    "language": "Russian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1962.0,
+    "language": "Spanish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "English",
+    "film_count": 54
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "French",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "Italian",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1963.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "Czech",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "Danish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "English",
+    "film_count": 63
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "French",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "Italian",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "Japanese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "Portuguese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "Russian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "Spanish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1964.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "Czech",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "English",
+    "film_count": 58
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "French",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "Italian",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "Slovak",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "Spanish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1965.0,
+    "language": "Ukrainian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Czech",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "English",
+    "film_count": 66
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "French",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Italian",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Russian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1966.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "Czech",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "English",
+    "film_count": 58
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "French",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "Italian",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1967.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1968.0,
+    "language": "English",
+    "film_count": 63
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1968.0,
+    "language": "French",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1968.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1968.0,
+    "language": "Italian",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1968.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1968.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1968.0,
+    "language": "Spanish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1968.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "Armenian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "English",
+    "film_count": 56
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "French",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "Italian",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "Japanese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "Portuguese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "Russian",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "Spanish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1969.0,
+    "language": "Swedish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1970.0,
+    "language": "Czech",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1970.0,
+    "language": "English",
+    "film_count": 71
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1970.0,
+    "language": "French",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1970.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1970.0,
+    "language": "Italian",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1970.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1970.0,
+    "language": "Polish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1970.0,
+    "language": "Spanish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1970.0,
+    "language": "Swedish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "English",
+    "film_count": 81
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "French",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "Italian",
+    "film_count": 24
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "Russian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "SH",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "Spanish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1971.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "Armenian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "English",
+    "film_count": 78
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "French",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "Italian",
+    "film_count": 28
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "Japanese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "Polish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "Russian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "Spanish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1972.0,
+    "language": "Swedish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Dutch",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "English",
+    "film_count": 77
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "French",
+    "film_count": 20
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Italian",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Japanese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Polish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Russian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Spanish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Swedish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1973.0,
+    "language": "Wolof",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "English",
+    "film_count": 83
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "French",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "German",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "Italian",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "Japanese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "Norwegian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "Polish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1974.0,
+    "language": "Turkish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "English",
+    "film_count": 62
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Filipino",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "French",
+    "film_count": 20
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Italian",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Norwegian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Russian",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Spanish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1975.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "English",
+    "film_count": 74
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Filipino",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "French",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "German",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Italian",
+    "film_count": 21
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "LA",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Spanish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1976.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "Dutch",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "English",
+    "film_count": 83
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "French",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "German",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "Italian",
+    "film_count": 21
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "Russian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1977.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Danish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "English",
+    "film_count": 90
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "French",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Italian",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Japanese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Spanish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1978.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "English",
+    "film_count": 89
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "French",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "German",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "Italian",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "Russian",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1979.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Dutch",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "English",
+    "film_count": 107
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "French",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Italian",
+    "film_count": 23
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Russian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "SH",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Spanish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1980.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "English",
+    "film_count": 114
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "French",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "German",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "Hungarian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "Italian",
+    "film_count": 21
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "Polish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "Portuguese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "SH",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1981.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "English",
+    "film_count": 108
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "French",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "Italian",
+    "film_count": 21
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "Russian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "SH",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "Spanish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "Swedish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1982.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "Dutch",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "English",
+    "film_count": 107
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "French",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "Italian",
+    "film_count": 22
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "Spanish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1983.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "Danish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "English",
+    "film_count": 125
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "French",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "Italian",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "Portuguese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "Russian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "Spanish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1984.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "English",
+    "film_count": 137
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "French",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "German",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "Italian",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "Polish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "SH",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "Spanish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1985.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Dutch",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "English",
+    "film_count": 157
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "French",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Italian",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Japanese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Russian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Spanish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1986.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Bambara",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Danish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "English",
+    "film_count": 183
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "French",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "German",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Italian",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Russian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "SE",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Spanish",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1987.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Danish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Dutch",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "English",
+    "film_count": 194
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "French",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "German",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Italian",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Polish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "SH",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1988.0,
+    "language": "Spanish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Czech",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "English",
+    "film_count": 175
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "French",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Italian",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Japanese",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Polish",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Portuguese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Spanish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1989.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Cantonese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "English",
+    "film_count": 178
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "French",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Icelandic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Italian",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Norwegian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1990.0,
+    "language": "Spanish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1991.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1991.0,
+    "language": "Cantonese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1991.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1991.0,
+    "language": "English",
+    "film_count": 180
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1991.0,
+    "language": "French",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1991.0,
+    "language": "German",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1991.0,
+    "language": "Italian",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1991.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1991.0,
+    "language": "Spanish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1991.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Cantonese",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Dutch",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "English",
+    "film_count": 178
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "French",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Italian",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Japanese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Spanish",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1992.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "Cantonese",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "English",
+    "film_count": 210
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "French",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "Italian",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "Japanese",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "Spanish",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1993.0,
+    "language": "Vietnamese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Cantonese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Chinese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Danish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "English",
+    "film_count": 212
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "French",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "German",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Italian",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Japanese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Macedonian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Spanish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1994.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Cantonese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Dutch",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "English",
+    "film_count": 217
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "French",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Hindi",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Italian",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Japanese",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Spanish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1995.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Cantonese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Czech",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Danish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "English",
+    "film_count": 240
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "French",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Italian",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Polish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1996.0,
+    "language": "Vietnamese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Dutch",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "English",
+    "film_count": 231
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "French",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "German",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Hindi",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Italian",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Japanese",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Norwegian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Polish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Russian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Spanish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1997.0,
+    "language": "Turkish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Danish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "English",
+    "film_count": 253
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "French",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "German",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Hindi",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Italian",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Japanese",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Korean",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Portuguese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Russian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Spanish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1998.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Danish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "English",
+    "film_count": 258
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "French",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "German",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Hindi",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Italian",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Japanese",
+    "film_count": 20
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Korean",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Polish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Russian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Spanish",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 1999.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Danish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "English",
+    "film_count": 256
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "French",
+    "film_count": 21
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "German",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Hindi",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Icelandic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Italian",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Japanese",
+    "film_count": 21
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Korean",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Portuguese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Spanish",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Swedish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2000.0,
+    "language": "Vietnamese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Bosnian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Czech",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Dutch",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "English",
+    "film_count": 282
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "French",
+    "film_count": 27
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "German",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Hindi",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Italian",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Japanese",
+    "film_count": 22
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Korean",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Norwegian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Polish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Portuguese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Spanish",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2001.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Chinese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Danish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Dutch",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "English",
+    "film_count": 293
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "French",
+    "film_count": 25
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "German",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Hindi",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Inuktitut",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Italian",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Japanese",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Korean",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Polish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Portuguese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Romanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Russian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Spanish",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Tibetan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2002.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Danish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Dutch",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "English",
+    "film_count": 309
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "French",
+    "film_count": 36
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "German",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Hindi",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Icelandic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Italian",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Japanese",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Korean",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Mongolian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Norwegian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Portuguese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Spanish",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Swedish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2003.0,
+    "language": "Thai",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Bambara",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Cantonese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Danish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "English",
+    "film_count": 317
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "French",
+    "film_count": 31
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "German",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Hindi",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Italian",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Japanese",
+    "film_count": 33
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Korean",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Norwegian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Polish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Portuguese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Spanish",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Thai",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Tibetan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2004.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Chinese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Danish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "English",
+    "film_count": 375
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Finnish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "French",
+    "film_count": 39
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "German",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Hindi",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Italian",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Japanese",
+    "film_count": 23
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Korean",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Kurdish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Mongolian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Norwegian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Portuguese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Romanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Russian",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Spanish",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Tamil",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Thai",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Tswana",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2005.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Bosnian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Catalan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Chinese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Danish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Dutch",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "English",
+    "film_count": 437
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "French",
+    "film_count": 45
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "German",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Hindi",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Icelandic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Italian",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Japanese",
+    "film_count": 29
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Korean",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Norwegian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Pashto",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Portuguese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Romanian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Russian",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Spanish",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Thai",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2006.0,
+    "language": "Turkish",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Chinese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Czech",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Danish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Dutch",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "English",
+    "film_count": 465
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Estonian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "French",
+    "film_count": 47
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "German",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Hindi",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Icelandic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Italian",
+    "film_count": 26
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Japanese",
+    "film_count": 32
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Korean",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Polish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Portuguese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Romanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Russian",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Serbian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Spanish",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Thai",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2007.0,
+    "language": "Turkish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Cantonese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Chinese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Danish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Dutch",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "English",
+    "film_count": 507
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Finnish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "French",
+    "film_count": 55
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "German",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Hebrew",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Hindi",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Italian",
+    "film_count": 25
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Japanese",
+    "film_count": 31
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Korean",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Norwegian",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Portuguese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Romanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Russian",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Spanish",
+    "film_count": 21
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Swedish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Thai",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2008.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Cantonese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Catalan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Chinese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Danish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Dutch",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "English",
+    "film_count": 530
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "French",
+    "film_count": 68
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "German",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Hebrew",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Hindi",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Indonesian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Italian",
+    "film_count": 27
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Japanese",
+    "film_count": 31
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Korean",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Norwegian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Polish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Portuguese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Romanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Russian",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Slovenian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Spanish",
+    "film_count": 22
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Swedish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2009.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Catalan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Chinese",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Danish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Dutch",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "English",
+    "film_count": 491
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Finnish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "French",
+    "film_count": 55
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "German",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Hindi",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Italian",
+    "film_count": 34
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Japanese",
+    "film_count": 31
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Korean",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Norwegian",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Portuguese",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Romanian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Russian",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Serbian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Spanish",
+    "film_count": 22
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Swedish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Thai",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2010.0,
+    "language": "Turkish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Chinese",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Danish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Dutch",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "English",
+    "film_count": 564
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "French",
+    "film_count": 82
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "German",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Hindi",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Italian",
+    "film_count": 34
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Japanese",
+    "film_count": 28
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Korean",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Norwegian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Persian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Polish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Portuguese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Russian",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Spanish",
+    "film_count": 35
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2011.0,
+    "language": "Turkish",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Cantonese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Catalan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Chinese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Danish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Dutch",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "English",
+    "film_count": 545
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "French",
+    "film_count": 70
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "German",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Hebrew",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Hindi",
+    "film_count": 22
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Icelandic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Indonesian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Italian",
+    "film_count": 31
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Japanese",
+    "film_count": 33
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Korean",
+    "film_count": 24
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Kurdish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Lithuanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Norwegian",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Polish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Portuguese",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Romanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Russian",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Spanish",
+    "film_count": 29
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Swedish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2012.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Cantonese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Catalan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Chinese",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Croatian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Danish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Dutch",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 612
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Estonian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Filipino",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "French",
+    "film_count": 78
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Georgian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "German",
+    "film_count": 20
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Hebrew",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Hindi",
+    "film_count": 26
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Icelandic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Italian",
+    "film_count": 38
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Japanese",
+    "film_count": 43
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Korean",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Lao",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "No Language",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Norwegian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Polish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Portuguese",
+    "film_count": 20
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Romanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Russian",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "SC",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Slovenian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Spanish",
+    "film_count": 39
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Swedish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Thai",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2013.0,
+    "language": "Turkish",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Amharic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Basque",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Chinese",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Danish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Dutch",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 703
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Filipino",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "French",
+    "film_count": 90
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Georgian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "German",
+    "film_count": 27
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Hebrew",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Hindi",
+    "film_count": 22
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Hungarian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Italian",
+    "film_count": 42
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Japanese",
+    "film_count": 43
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Korean",
+    "film_count": 22
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Kurdish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Maori",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Norwegian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Polish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Portuguese",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Russian",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Spanish",
+    "film_count": 36
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Tamil",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Turkish",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2014.0,
+    "language": "Ukrainian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Catalan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Chinese",
+    "film_count": 22
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Croatian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Danish",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Dutch",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 708
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Estonian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "French",
+    "film_count": 93
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "German",
+    "film_count": 24
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Greek",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Hindi",
+    "film_count": 26
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Hungarian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Icelandic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Italian",
+    "film_count": 41
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Japanese",
+    "film_count": 42
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Korean",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Lithuanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Malayalam",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Marathi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Norwegian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Polish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Portuguese",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Romanian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Russian",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Spanish",
+    "film_count": 48
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Swedish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Turkish",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2015.0,
+    "language": "Ukrainian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Arabic",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Catalan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Chinese",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Danish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Dutch",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 691
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Finnish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "French",
+    "film_count": 119
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "German",
+    "film_count": 24
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Hindi",
+    "film_count": 28
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Hungarian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Icelandic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Italian",
+    "film_count": 52
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Japanese",
+    "film_count": 42
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Khmer",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Korean",
+    "film_count": 21
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Norwegian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Polish",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Portuguese",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Romanian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Russian",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Slovak",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Spanish",
+    "film_count": 58
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Swedish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Tamil",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2016.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Arabic",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Basque",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Bulgarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Catalan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Chinese",
+    "film_count": 20
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Croatian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Danish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Dutch",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 759
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Estonian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Filipino",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Finnish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "French",
+    "film_count": 128
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Georgian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "German",
+    "film_count": 20
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Hebrew",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Hindi",
+    "film_count": 25
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Hungarian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Icelandic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Indonesian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Italian",
+    "film_count": 48
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Japanese",
+    "film_count": 44
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Korean",
+    "film_count": 26
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Norwegian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Polish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Portuguese",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Russian",
+    "film_count": 17
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Spanish",
+    "film_count": 52
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Swedish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Tamil",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Telugu",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Turkish",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Ukrainian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2017.0,
+    "language": "Xhosa",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Basque",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Chinese",
+    "film_count": 23
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Danish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Dutch",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 714
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Finnish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "French",
+    "film_count": 125
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Georgian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "German",
+    "film_count": 33
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Hindi",
+    "film_count": 29
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Hungarian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Icelandic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Indonesian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Italian",
+    "film_count": 63
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Japanese",
+    "film_count": 28
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Kannada",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Korean",
+    "film_count": 30
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Latvian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Malay",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Norwegian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Polish",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Portuguese",
+    "film_count": 15
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Russian",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Spanish",
+    "film_count": 79
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Swahili",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Swedish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Tamil",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Turkish",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2018.0,
+    "language": "Ukrainian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Catalan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Chinese",
+    "film_count": 22
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Danish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Dutch",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Dzongkha",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 662
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Estonian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Filipino",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "French",
+    "film_count": 128
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Galician",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Georgian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "German",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Hindi",
+    "film_count": 23
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Icelandic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Indonesian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Italian",
+    "film_count": 61
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Japanese",
+    "film_count": 41
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Kazakh",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Korean",
+    "film_count": 30
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "LA",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Latvian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Macedonian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Malayalam",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Norwegian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Polish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Portuguese",
+    "film_count": 20
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Romanian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Russian",
+    "film_count": 22
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Spanish",
+    "film_count": 81
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Swedish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Tamil",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Thai",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Turkish",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Ukrainian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2019.0,
+    "language": "Vietnamese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Afrikaans",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Basque",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Chinese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Czech",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Danish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Dutch",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 580
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "French",
+    "film_count": 81
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "German",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Hindi",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Hungarian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Italian",
+    "film_count": 49
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Japanese",
+    "film_count": 26
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Korean",
+    "film_count": 16
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Norwegian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Polish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Portuguese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Romanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Russian",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Spanish",
+    "film_count": 64
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Swedish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Telugu",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2020.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Chinese",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Danish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Dutch",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 530
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Finnish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "French",
+    "film_count": 85
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "German",
+    "film_count": 14
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Greek",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Hindi",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Icelandic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Indonesian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Italian",
+    "film_count": 50
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Japanese",
+    "film_count": 32
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Korean",
+    "film_count": 19
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Malayalam",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Norwegian",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Pashto",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Persian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Polish",
+    "film_count": 13
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Portuguese",
+    "film_count": 18
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Romanian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Russian",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Serbian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Spanish",
+    "film_count": 57
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Swedish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Thai",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2021.0,
+    "language": "Welsh",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Catalan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Chinese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Danish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Dutch",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 505
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "French",
+    "film_count": 92
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Galician",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "German",
+    "film_count": 9
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Hindi",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Icelandic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Irish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Italian",
+    "film_count": 43
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Japanese",
+    "film_count": 29
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Kannada",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Korean",
+    "film_count": 21
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Norwegian",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Persian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Polish",
+    "film_count": 11
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Portuguese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Romanian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Spanish",
+    "film_count": 56
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Tamil",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Ukrainian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Urdu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2022.0,
+    "language": "Vietnamese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Basque",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Chinese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Danish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Dutch",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "English",
+    "film_count": 216
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Finnish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "French",
+    "film_count": 30
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "German",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Hindi",
+    "film_count": 4
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Italian",
+    "film_count": 12
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Korean",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Norwegian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Polish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Portuguese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Spanish",
+    "film_count": 31
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Swedish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Ukrainian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "world",
+    "scope_id": "WORLD",
+    "year": 2023.0,
+    "language": "Wolof",
+    "film_count": 1
+  }
+]

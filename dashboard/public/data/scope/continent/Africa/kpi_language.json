@@ -1,0 +1,954 @@
+[
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1958.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1963.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1964.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1966.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1967.0,
+    "language": "Italian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1968.0,
+    "language": "Italian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1969.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1970.0,
+    "language": "Italian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1973.0,
+    "language": "Wolof",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1974.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1980.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1987.0,
+    "language": "Bambara",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1988.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1989.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1992.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1995.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 1997.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2000.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2001.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2002.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2004.0,
+    "language": "Bambara",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2005.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2005.0,
+    "language": "Tswana",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2006.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2006.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2006.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2007.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2008.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2009.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2010.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2010.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2010.0,
+    "language": "French",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2011.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2011.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2012.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2013.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2014.0,
+    "language": "Amharic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2014.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2016.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2017.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2017.0,
+    "language": "Xhosa",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2018.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2018.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2018.0,
+    "language": "Swahili",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2019.0,
+    "language": "French",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2020.0,
+    "language": "Afrikaans",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2020.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 10
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2022.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Africa",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AO",
+    "year": 1968.0,
+    "language": "Italian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AO",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "BF",
+    "year": 1987.0,
+    "language": "Bambara",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "BF",
+    "year": 2004.0,
+    "language": "Bambara",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "BW",
+    "year": 2011.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CG",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CM",
+    "year": 2010.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "DZ",
+    "year": 1963.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "DZ",
+    "year": 1967.0,
+    "language": "Italian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "DZ",
+    "year": 1969.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "DZ",
+    "year": 1970.0,
+    "language": "Italian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "DZ",
+    "year": 2006.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "DZ",
+    "year": 2010.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "DZ",
+    "year": 2018.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "DZ",
+    "year": 2019.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "DZ",
+    "year": 2020.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "EG",
+    "year": 1958.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "EG",
+    "year": 1966.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "EG",
+    "year": 2006.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "EG",
+    "year": 2010.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "EG",
+    "year": 2011.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "EG",
+    "year": 2013.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "EG",
+    "year": 2014.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "EG",
+    "year": 2016.0,
+    "language": "Arabic",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "EG",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "EG",
+    "year": 2022.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ET",
+    "year": 2014.0,
+    "language": "Amharic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "GH",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KE",
+    "year": 2018.0,
+    "language": "Swahili",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KE",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "LR",
+    "year": 2008.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MA",
+    "year": 1997.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MA",
+    "year": 2002.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MA",
+    "year": 2008.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MA",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MA",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MA",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MA",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MW",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "NA",
+    "year": 1988.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "NA",
+    "year": 1992.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "NG",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "RW",
+    "year": 2005.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "SN",
+    "year": 1973.0,
+    "language": "Wolof",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "SN",
+    "year": 2019.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TN",
+    "year": 2017.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TZ",
+    "year": 1997.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "UG",
+    "year": 2010.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "UG",
+    "year": 2012.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 1964.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 1974.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 1980.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 1988.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 1989.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 1995.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2000.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2001.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2005.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2005.0,
+    "language": "Tswana",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2006.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2007.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2009.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2010.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2011.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2012.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2017.0,
+    "language": "Xhosa",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2018.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2020.0,
+    "language": "Afrikaans",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZA",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ZM",
+    "year": 2005.0,
+    "language": "English",
+    "film_count": 1
+  }
+]

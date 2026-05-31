@@ -1,0 +1,8500 @@
+[
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1950.0,
+    "language": "Japanese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1951.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1951.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1952.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1953.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1954.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1955.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1955.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1956.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1956.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1956.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1957.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1957.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1958.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1958.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1959.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1959.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1960.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1960.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1961.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1961.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1962.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1963.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1963.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1963.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1963.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1963.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1964.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1964.0,
+    "language": "Japanese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1965.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1965.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1966.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1966.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1966.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1967.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1967.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1967.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1968.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1969.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1969.0,
+    "language": "Japanese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1969.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1970.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1970.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1971.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1971.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1971.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1971.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1972.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1972.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1972.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1972.0,
+    "language": "Japanese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1973.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1973.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1973.0,
+    "language": "Japanese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1973.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1974.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1974.0,
+    "language": "Japanese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1974.0,
+    "language": "Turkish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1975.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1975.0,
+    "language": "Filipino",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1975.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1975.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1975.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1975.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1976.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1976.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1976.0,
+    "language": "Filipino",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1976.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1977.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1977.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1977.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1977.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1977.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1978.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1978.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1978.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1978.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1978.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1978.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1978.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1979.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1979.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1979.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1979.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1979.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1980.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1980.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1980.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1980.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1980.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1981.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1981.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1981.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1982.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1982.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1982.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1982.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1982.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1983.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1983.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1983.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1983.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1983.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1984.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1984.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1984.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1985.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1985.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1985.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1985.0,
+    "language": "Japanese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1986.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1986.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1986.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1986.0,
+    "language": "Japanese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1986.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1987.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1987.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1987.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1987.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1987.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1987.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1987.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1987.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1988.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1988.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1988.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1988.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1989.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1989.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1989.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1989.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1989.0,
+    "language": "Japanese",
+    "film_count": 11
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1989.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1990.0,
+    "language": "Cantonese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1990.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1990.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1990.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1990.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1991.0,
+    "language": "Cantonese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1991.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1991.0,
+    "language": "English",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1991.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1992.0,
+    "language": "Cantonese",
+    "film_count": 15
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1992.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1992.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1992.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1992.0,
+    "language": "Japanese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1992.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1993.0,
+    "language": "Cantonese",
+    "film_count": 17
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1993.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1993.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1993.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1993.0,
+    "language": "Japanese",
+    "film_count": 13
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1993.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1994.0,
+    "language": "Cantonese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1994.0,
+    "language": "Chinese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1994.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1994.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1994.0,
+    "language": "Japanese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1994.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1995.0,
+    "language": "Cantonese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1995.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1995.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1995.0,
+    "language": "Hindi",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1995.0,
+    "language": "Japanese",
+    "film_count": 16
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1995.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1995.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1996.0,
+    "language": "Cantonese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1996.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1996.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1996.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1996.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1996.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1996.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1996.0,
+    "language": "Vietnamese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1997.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1997.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1997.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1997.0,
+    "language": "Hindi",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1997.0,
+    "language": "Japanese",
+    "film_count": 11
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1997.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1997.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1997.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1998.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1998.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1998.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1998.0,
+    "language": "Hindi",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1998.0,
+    "language": "Japanese",
+    "film_count": 16
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1998.0,
+    "language": "Korean",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1998.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1999.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1999.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1999.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1999.0,
+    "language": "Hindi",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1999.0,
+    "language": "Japanese",
+    "film_count": 19
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1999.0,
+    "language": "Korean",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1999.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 1999.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2000.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2000.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2000.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2000.0,
+    "language": "Hindi",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2000.0,
+    "language": "Japanese",
+    "film_count": 21
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2000.0,
+    "language": "Korean",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2000.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2000.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2001.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2001.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2001.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2001.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2001.0,
+    "language": "Hindi",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2001.0,
+    "language": "Japanese",
+    "film_count": 22
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2001.0,
+    "language": "Korean",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2001.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2001.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2001.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2002.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2002.0,
+    "language": "Chinese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2002.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2002.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2002.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2002.0,
+    "language": "Hindi",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2002.0,
+    "language": "Japanese",
+    "film_count": 17
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2002.0,
+    "language": "Korean",
+    "film_count": 10
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2002.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2002.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "English",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "Hindi",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "Japanese",
+    "film_count": 17
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "Korean",
+    "film_count": 14
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "Mongolian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2003.0,
+    "language": "Thai",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Cantonese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Hindi",
+    "film_count": 10
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Japanese",
+    "film_count": 33
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Korean",
+    "film_count": 16
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Thai",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Tibetan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2004.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "Chinese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "Hindi",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "Japanese",
+    "film_count": 23
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "Korean",
+    "film_count": 13
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "Kurdish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "Mongolian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "Tamil",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2005.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2006.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2006.0,
+    "language": "Chinese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2006.0,
+    "language": "English",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2006.0,
+    "language": "Hindi",
+    "film_count": 14
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2006.0,
+    "language": "Japanese",
+    "film_count": 29
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2006.0,
+    "language": "Korean",
+    "film_count": 12
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2006.0,
+    "language": "Pashto",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2006.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2006.0,
+    "language": "Thai",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2006.0,
+    "language": "Turkish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2007.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2007.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2007.0,
+    "language": "Chinese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2007.0,
+    "language": "English",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2007.0,
+    "language": "Hindi",
+    "film_count": 14
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2007.0,
+    "language": "Japanese",
+    "film_count": 32
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2007.0,
+    "language": "Korean",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2007.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2007.0,
+    "language": "Thai",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2007.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2008.0,
+    "language": "Cantonese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2008.0,
+    "language": "Chinese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2008.0,
+    "language": "English",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2008.0,
+    "language": "Hindi",
+    "film_count": 15
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2008.0,
+    "language": "Japanese",
+    "film_count": 31
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2008.0,
+    "language": "Korean",
+    "film_count": 11
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2008.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2008.0,
+    "language": "Thai",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2008.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Cantonese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Chinese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "English",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Hindi",
+    "film_count": 14
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Indonesian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Japanese",
+    "film_count": 31
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Korean",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2009.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2010.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2010.0,
+    "language": "Chinese",
+    "film_count": 14
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2010.0,
+    "language": "English",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2010.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2010.0,
+    "language": "Hindi",
+    "film_count": 19
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2010.0,
+    "language": "Japanese",
+    "film_count": 30
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2010.0,
+    "language": "Korean",
+    "film_count": 17
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2010.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2010.0,
+    "language": "Thai",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2010.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "Chinese",
+    "film_count": 11
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "English",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "Hindi",
+    "film_count": 15
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "Japanese",
+    "film_count": 27
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "Korean",
+    "film_count": 19
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2011.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Cantonese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Chinese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "English",
+    "film_count": 11
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Hebrew",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Hindi",
+    "film_count": 22
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Japanese",
+    "film_count": 31
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Korean",
+    "film_count": 23
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2012.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Cantonese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Chinese",
+    "film_count": 12
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 14
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Filipino",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Hindi",
+    "film_count": 25
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Japanese",
+    "film_count": 43
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Korean",
+    "film_count": 17
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Thai",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2013.0,
+    "language": "Turkish",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Chinese",
+    "film_count": 18
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 13
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Filipino",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Hebrew",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Hindi",
+    "film_count": 20
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Japanese",
+    "film_count": 42
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Korean",
+    "film_count": 22
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Tamil",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2014.0,
+    "language": "Turkish",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Chinese",
+    "film_count": 22
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 16
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Hindi",
+    "film_count": 25
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Japanese",
+    "film_count": 39
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Korean",
+    "film_count": 18
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Malayalam",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Marathi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2015.0,
+    "language": "Turkish",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Chinese",
+    "film_count": 14
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 31
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Hindi",
+    "film_count": 28
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Japanese",
+    "film_count": 41
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Korean",
+    "film_count": 21
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Russian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Tamil",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2016.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Chinese",
+    "film_count": 20
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Danish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 24
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Filipino",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Hebrew",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Hindi",
+    "film_count": 24
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Indonesian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Japanese",
+    "film_count": 43
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Korean",
+    "film_count": 26
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Tamil",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Telugu",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2017.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Chinese",
+    "film_count": 22
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 21
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Georgian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Hindi",
+    "film_count": 28
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Indonesian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Japanese",
+    "film_count": 27
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Kannada",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Korean",
+    "film_count": 30
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Malay",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Tamil",
+    "film_count": 8
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2018.0,
+    "language": "Turkish",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Chinese",
+    "film_count": 22
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Dzongkha",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 25
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Filipino",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Hindi",
+    "film_count": 22
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Indonesian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Japanese",
+    "film_count": 41
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Kazakh",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Korean",
+    "film_count": 30
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Malayalam",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Tamil",
+    "film_count": 6
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Thai",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Turkish",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2019.0,
+    "language": "Vietnamese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "Chinese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 17
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "Hindi",
+    "film_count": 12
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "Japanese",
+    "film_count": 26
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "Korean",
+    "film_count": 15
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "Telugu",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2020.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Chinese",
+    "film_count": 19
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 16
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Hindi",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Indonesian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Japanese",
+    "film_count": 30
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Korean",
+    "film_count": 19
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Malayalam",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Pashto",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Spanish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Thai",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2021.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Chinese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 11
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Hindi",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Japanese",
+    "film_count": 26
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Kannada",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Korean",
+    "film_count": 20
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Tamil",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2022.0,
+    "language": "Urdu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2023.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2023.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2023.0,
+    "language": "Chinese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2023.0,
+    "language": "English",
+    "film_count": 12
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2023.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2023.0,
+    "language": "Hindi",
+    "film_count": 4
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2023.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2023.0,
+    "language": "Korean",
+    "film_count": 5
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2023.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "continent",
+    "scope_id": "Asia",
+    "year": 2023.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2009.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2010.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2010.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2011.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2012.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2016.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AE",
+    "year": 2023.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AF",
+    "year": 2004.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AF",
+    "year": 2006.0,
+    "language": "Pashto",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AF",
+    "year": 2013.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AF",
+    "year": 2021.0,
+    "language": "Pashto",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AM",
+    "year": 2016.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "AZ",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "BT",
+    "year": 2019.0,
+    "language": "Dzongkha",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1961.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1982.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1987.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1988.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1990.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1991.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1992.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1993.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1994.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1995.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1995.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1997.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1998.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 1999.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2000.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2000.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2001.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2001.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2001.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2002.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2002.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2003.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2004.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2004.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2004.0,
+    "language": "Tibetan",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2005.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2005.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2005.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2005.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2006.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2006.0,
+    "language": "Chinese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2007.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2007.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2007.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2008.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2008.0,
+    "language": "Chinese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2008.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2009.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2009.0,
+    "language": "Chinese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2009.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2009.0,
+    "language": "German",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2010.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2010.0,
+    "language": "Chinese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2010.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2010.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2011.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2011.0,
+    "language": "Chinese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2011.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2012.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2012.0,
+    "language": "Chinese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2013.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2013.0,
+    "language": "Chinese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2014.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2014.0,
+    "language": "Chinese",
+    "film_count": 14
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2015.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2015.0,
+    "language": "Chinese",
+    "film_count": 19
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2015.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2016.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2016.0,
+    "language": "Chinese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 14
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2017.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2017.0,
+    "language": "Chinese",
+    "film_count": 15
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 12
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2018.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2018.0,
+    "language": "Chinese",
+    "film_count": 21
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 12
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2018.0,
+    "language": "No Language",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2019.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2019.0,
+    "language": "Chinese",
+    "film_count": 20
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 14
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2019.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2019.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2020.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2020.0,
+    "language": "Chinese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2020.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2021.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2021.0,
+    "language": "Chinese",
+    "film_count": 18
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2021.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2022.0,
+    "language": "Chinese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2023.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2023.0,
+    "language": "Chinese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2023.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CN",
+    "year": 2023.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CY",
+    "year": 2018.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CY",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "CY",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "GE",
+    "year": 2011.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "GE",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "GE",
+    "year": 2018.0,
+    "language": "Georgian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "GE",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1966.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1967.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1969.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1971.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1972.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1972.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1973.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1973.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1974.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1975.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1976.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1977.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1978.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1978.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1978.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1979.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1979.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1980.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1980.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1980.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1981.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1981.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1982.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1982.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1982.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1983.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1983.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1984.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1984.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1985.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1985.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1985.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1986.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1986.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1986.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1987.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1987.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1987.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1988.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1988.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1989.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1989.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1990.0,
+    "language": "Cantonese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1990.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1991.0,
+    "language": "Cantonese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1991.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1992.0,
+    "language": "Cantonese",
+    "film_count": 15
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1993.0,
+    "language": "Cantonese",
+    "film_count": 17
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1993.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1994.0,
+    "language": "Cantonese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1994.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1995.0,
+    "language": "Cantonese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1996.0,
+    "language": "Cantonese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1997.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1997.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1998.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1998.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1998.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 1999.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2000.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2000.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2001.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2002.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2002.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2002.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2003.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2003.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2004.0,
+    "language": "Cantonese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2004.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2005.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2006.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2006.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2006.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2006.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2007.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2007.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2007.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2008.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2009.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2009.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2009.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2010.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2010.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2010.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2011.0,
+    "language": "Cantonese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2011.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2012.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2012.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2012.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2012.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2013.0,
+    "language": "Cantonese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2013.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2013.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2014.0,
+    "language": "Cantonese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2014.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2015.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2015.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2016.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2016.0,
+    "language": "Chinese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2017.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2017.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2017.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2017.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2018.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2018.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2018.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2019.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2019.0,
+    "language": "Filipino",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2020.0,
+    "language": "Cantonese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2022.0,
+    "language": "Cantonese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "HK",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 1999.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2009.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2012.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2012.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2014.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2014.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2016.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2017.0,
+    "language": "Indonesian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2018.0,
+    "language": "Indonesian",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2019.0,
+    "language": "Indonesian",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2021.0,
+    "language": "Indonesian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "ID",
+    "year": 2022.0,
+    "language": "Indonesian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 1978.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 1986.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 1988.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 1999.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2002.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2002.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2004.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2009.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2010.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2011.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2012.0,
+    "language": "Hebrew",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2013.0,
+    "language": "Hebrew",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2014.0,
+    "language": "Hebrew",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2015.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2017.0,
+    "language": "Hebrew",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IL",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1951.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1955.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1956.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1957.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1958.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1959.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1963.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1964.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1966.0,
+    "language": "Bengali",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1971.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1975.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1977.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1978.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1979.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1982.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1987.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1987.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1989.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1992.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1993.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1993.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1994.0,
+    "language": "Hindi",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1995.0,
+    "language": "Hindi",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1995.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1996.0,
+    "language": "Hindi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1996.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1997.0,
+    "language": "Hindi",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1998.0,
+    "language": "Hindi",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 1999.0,
+    "language": "Hindi",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2000.0,
+    "language": "Hindi",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2001.0,
+    "language": "Hindi",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2002.0,
+    "language": "Hindi",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2003.0,
+    "language": "Hindi",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2003.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2004.0,
+    "language": "Hindi",
+    "film_count": 10
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2004.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2005.0,
+    "language": "Hindi",
+    "film_count": 9
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2005.0,
+    "language": "Tamil",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2006.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2006.0,
+    "language": "Hindi",
+    "film_count": 13
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2007.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2007.0,
+    "language": "Hindi",
+    "film_count": 14
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2007.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2008.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2008.0,
+    "language": "Hindi",
+    "film_count": 15
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2009.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2009.0,
+    "language": "Hindi",
+    "film_count": 14
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2009.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2009.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2010.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2010.0,
+    "language": "Hindi",
+    "film_count": 18
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2010.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2011.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2011.0,
+    "language": "Hindi",
+    "film_count": 15
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2011.0,
+    "language": "Tamil",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2012.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2012.0,
+    "language": "Hindi",
+    "film_count": 22
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2012.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2012.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2012.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2013.0,
+    "language": "Hindi",
+    "film_count": 25
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2013.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2013.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2014.0,
+    "language": "Hindi",
+    "film_count": 20
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2014.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2014.0,
+    "language": "Tamil",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2014.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2015.0,
+    "language": "Hindi",
+    "film_count": 25
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2015.0,
+    "language": "Malayalam",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2015.0,
+    "language": "Marathi",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2015.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2015.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2015.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2016.0,
+    "language": "Hindi",
+    "film_count": 28
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2016.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2016.0,
+    "language": "Tamil",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2017.0,
+    "language": "Hindi",
+    "film_count": 24
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2017.0,
+    "language": "Tamil",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2017.0,
+    "language": "Telugu",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2018.0,
+    "language": "Hindi",
+    "film_count": 28
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2018.0,
+    "language": "Kannada",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2018.0,
+    "language": "Tamil",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2018.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2019.0,
+    "language": "Hindi",
+    "film_count": 22
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2019.0,
+    "language": "Malayalam",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2019.0,
+    "language": "Tamil",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2019.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2020.0,
+    "language": "Hindi",
+    "film_count": 12
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2020.0,
+    "language": "Malayalam",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2020.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2020.0,
+    "language": "Telugu",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2021.0,
+    "language": "Hindi",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2021.0,
+    "language": "Malayalam",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2021.0,
+    "language": "Spanish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2021.0,
+    "language": "Tamil",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2021.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2022.0,
+    "language": "Hindi",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2022.0,
+    "language": "Kannada",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2022.0,
+    "language": "Tamil",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2022.0,
+    "language": "Telugu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IN",
+    "year": 2023.0,
+    "language": "Hindi",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 1963.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 1969.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 1987.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 1990.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 1992.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 1994.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 1995.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 1996.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 1997.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 1999.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2000.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2001.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2001.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2002.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2003.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2004.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2005.0,
+    "language": "Kurdish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2006.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2008.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2009.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2011.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2015.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2017.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2018.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2019.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2021.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "IR",
+    "year": 2022.0,
+    "language": "Persian",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JO",
+    "year": 2014.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JO",
+    "year": 2016.0,
+    "language": "Persian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1950.0,
+    "language": "Japanese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1951.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1952.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1953.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1954.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1955.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1956.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1956.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1957.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1958.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1959.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1960.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1961.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1962.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1963.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1963.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1964.0,
+    "language": "Japanese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1965.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1966.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1967.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1967.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1968.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1969.0,
+    "language": "Japanese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1970.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1970.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1971.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1972.0,
+    "language": "Japanese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1973.0,
+    "language": "Japanese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1974.0,
+    "language": "Japanese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1975.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1975.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1977.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1977.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1978.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1979.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1980.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1981.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1982.0,
+    "language": "Japanese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1983.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1984.0,
+    "language": "Japanese",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1985.0,
+    "language": "Japanese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1986.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1986.0,
+    "language": "Japanese",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1987.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1987.0,
+    "language": "Japanese",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1988.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1988.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1989.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1989.0,
+    "language": "Japanese",
+    "film_count": 11
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1990.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1990.0,
+    "language": "Japanese",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1991.0,
+    "language": "English",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1991.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1992.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1992.0,
+    "language": "Japanese",
+    "film_count": 9
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1993.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1993.0,
+    "language": "Japanese",
+    "film_count": 13
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1994.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1994.0,
+    "language": "Japanese",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1995.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1995.0,
+    "language": "Japanese",
+    "film_count": 16
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1996.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1996.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1997.0,
+    "language": "Japanese",
+    "film_count": 11
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1998.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1998.0,
+    "language": "Japanese",
+    "film_count": 16
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1999.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 1999.0,
+    "language": "Japanese",
+    "film_count": 19
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2000.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2000.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2000.0,
+    "language": "Japanese",
+    "film_count": 21
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2001.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2001.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2001.0,
+    "language": "Japanese",
+    "film_count": 22
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2001.0,
+    "language": "Polish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2002.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2002.0,
+    "language": "Japanese",
+    "film_count": 17
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2003.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2003.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2003.0,
+    "language": "Japanese",
+    "film_count": 17
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2004.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2004.0,
+    "language": "Japanese",
+    "film_count": 33
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2005.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2005.0,
+    "language": "Japanese",
+    "film_count": 23
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2005.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2006.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2006.0,
+    "language": "Japanese",
+    "film_count": 29
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2006.0,
+    "language": "Korean",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2007.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2007.0,
+    "language": "Japanese",
+    "film_count": 32
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2008.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2008.0,
+    "language": "Japanese",
+    "film_count": 30
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2009.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2009.0,
+    "language": "Japanese",
+    "film_count": 31
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2009.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2010.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2010.0,
+    "language": "Japanese",
+    "film_count": 30
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2011.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2011.0,
+    "language": "Japanese",
+    "film_count": 27
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2012.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2012.0,
+    "language": "Japanese",
+    "film_count": 31
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2013.0,
+    "language": "Japanese",
+    "film_count": 43
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2014.0,
+    "language": "Japanese",
+    "film_count": 41
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2015.0,
+    "language": "Japanese",
+    "film_count": 39
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2016.0,
+    "language": "Japanese",
+    "film_count": 41
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2017.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2017.0,
+    "language": "Japanese",
+    "film_count": 42
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2018.0,
+    "language": "Japanese",
+    "film_count": 27
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2018.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2019.0,
+    "language": "Japanese",
+    "film_count": 40
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2020.0,
+    "language": "Japanese",
+    "film_count": 26
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2021.0,
+    "language": "Japanese",
+    "film_count": 30
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2022.0,
+    "language": "Japanese",
+    "film_count": 26
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2023.0,
+    "language": "English",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "JP",
+    "year": 2023.0,
+    "language": "Japanese",
+    "film_count": 10
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KH",
+    "year": 2013.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KH",
+    "year": 2016.0,
+    "language": "Russian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KH",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KH",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 1960.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 1994.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 1995.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 1996.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 1997.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 1997.0,
+    "language": "Korean",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 1998.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 1998.0,
+    "language": "Korean",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 1999.0,
+    "language": "Korean",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2000.0,
+    "language": "Korean",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2001.0,
+    "language": "Korean",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2002.0,
+    "language": "Korean",
+    "film_count": 9
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2003.0,
+    "language": "Korean",
+    "film_count": 14
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2004.0,
+    "language": "Korean",
+    "film_count": 15
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2005.0,
+    "language": "Korean",
+    "film_count": 11
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2006.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2006.0,
+    "language": "Korean",
+    "film_count": 9
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2007.0,
+    "language": "Korean",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2008.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2008.0,
+    "language": "Japanese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2008.0,
+    "language": "Korean",
+    "film_count": 11
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2009.0,
+    "language": "Korean",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2010.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2010.0,
+    "language": "Korean",
+    "film_count": 15
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2011.0,
+    "language": "Korean",
+    "film_count": 19
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2012.0,
+    "language": "Korean",
+    "film_count": 22
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2013.0,
+    "language": "Korean",
+    "film_count": 16
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2014.0,
+    "language": "Korean",
+    "film_count": 22
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2015.0,
+    "language": "Korean",
+    "film_count": 18
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2016.0,
+    "language": "Korean",
+    "film_count": 21
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2017.0,
+    "language": "Korean",
+    "film_count": 25
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2018.0,
+    "language": "Korean",
+    "film_count": 28
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2019.0,
+    "language": "Korean",
+    "film_count": 30
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2020.0,
+    "language": "Korean",
+    "film_count": 15
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2021.0,
+    "language": "Korean",
+    "film_count": 19
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2021.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2022.0,
+    "language": "Korean",
+    "film_count": 20
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2023.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KR",
+    "year": 2023.0,
+    "language": "Korean",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KW",
+    "year": 1976.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "KZ",
+    "year": 2019.0,
+    "language": "Kazakh",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "LB",
+    "year": 1983.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "LB",
+    "year": 2007.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "LK",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MM",
+    "year": 2017.0,
+    "language": "French",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MN",
+    "year": 2003.0,
+    "language": "Mongolian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MN",
+    "year": 2005.0,
+    "language": "Mongolian",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MN",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MY",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MY",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MY",
+    "year": 2018.0,
+    "language": "Malay",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "MY",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 1971.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 1972.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 1973.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 1975.0,
+    "language": "Filipino",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 1976.0,
+    "language": "Filipino",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 2007.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 2013.0,
+    "language": "Filipino",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 2014.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 2014.0,
+    "language": "Filipino",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 2017.0,
+    "language": "Filipino",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PH",
+    "year": 2019.0,
+    "language": "Filipino",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "PK",
+    "year": 2022.0,
+    "language": "Urdu",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "QA",
+    "year": 2004.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "QA",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "QA",
+    "year": 2017.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "SA",
+    "year": 2023.0,
+    "language": "Arabic",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "SY",
+    "year": 2017.0,
+    "language": "Danish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "SY",
+    "year": 2019.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 1992.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2000.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2003.0,
+    "language": "Thai",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2004.0,
+    "language": "Thai",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2005.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2006.0,
+    "language": "Thai",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2007.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2007.0,
+    "language": "Thai",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2008.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2008.0,
+    "language": "Thai",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2009.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2010.0,
+    "language": "Thai",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2011.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2013.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2013.0,
+    "language": "Thai",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2014.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2015.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2016.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2017.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2018.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2019.0,
+    "language": "Thai",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2021.0,
+    "language": "Thai",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2022.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2023.0,
+    "language": "English",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TH",
+    "year": 2023.0,
+    "language": "Thai",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1963.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1963.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1965.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1973.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1974.0,
+    "language": "Turkish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1975.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1976.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1977.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1978.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1979.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1980.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1982.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1983.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1986.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1987.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1989.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1996.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1997.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1998.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 1999.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2001.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2002.0,
+    "language": "Turkish",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2004.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2005.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2006.0,
+    "language": "Turkish",
+    "film_count": 4
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2007.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2008.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2009.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2010.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2011.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2012.0,
+    "language": "Turkish",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2013.0,
+    "language": "Turkish",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2014.0,
+    "language": "Turkish",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2015.0,
+    "language": "Turkish",
+    "film_count": 8
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2016.0,
+    "language": "Turkish",
+    "film_count": 6
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2017.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2017.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2018.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2018.0,
+    "language": "Turkish",
+    "film_count": 9
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2019.0,
+    "language": "Turkish",
+    "film_count": 7
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2020.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2020.0,
+    "language": "Turkish",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2021.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2021.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2022.0,
+    "language": "English",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2022.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TR",
+    "year": 2023.0,
+    "language": "Turkish",
+    "film_count": 5
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 1983.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 1985.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 1986.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 1991.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 1993.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 1994.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 1995.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 1997.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 1998.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 1999.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2000.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2001.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2002.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2002.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2003.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2005.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2006.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2008.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2009.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2009.0,
+    "language": "English",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2010.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2011.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2014.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2015.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2017.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2019.0,
+    "language": "Chinese",
+    "film_count": 2
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2020.0,
+    "language": "Chinese",
+    "film_count": 3
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2021.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2022.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "TW",
+    "year": 2023.0,
+    "language": "Chinese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "VN",
+    "year": 1996.0,
+    "language": "Vietnamese",
+    "film_count": 1
+  },
+  {
+    "scope_type": "country",
+    "scope_id": "VN",
+    "year": 2019.0,
+    "language": "Vietnamese",
+    "film_count": 2
+  }
+]
