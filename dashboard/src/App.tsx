@@ -478,7 +478,7 @@ export default function App() {
             ))}
           </FilmRoll>
           {showAbout && (
-            <div style={{ position: 'absolute', inset: 0, zIndex: 10, overflowY: 'auto' }}>
+            <div style={{ position: 'absolute', inset: 0, zIndex: 10 }}>
               <ClapperAbout />
             </div>
           )}
