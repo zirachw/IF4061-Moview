@@ -61,7 +61,6 @@ export default function StudioTreemap({ data, filter }: Props) {
   }, [data.peopleAgg, filter, metric, entityType])
 
   const metricColor = '#D4AF37'
-  const entityColor = ENTITY_COLORS[entityType]
 
   return (
     <ChartPanel
@@ -102,7 +101,7 @@ export default function StudioTreemap({ data, filter }: Props) {
             textfont: { color: '#F5F0E8', size: 10, family: 'Inter, sans-serif' },
             textinfo: 'label+value',
             hovertemplate: '<b>%{label}</b><br>%{value:,.0f}<extra></extra>',
-            hoverinfo: 'label+value' as const,
+            hoverinfo: 'skip' as const,
           }]}
           layout={{
             paper_bgcolor: 'transparent',

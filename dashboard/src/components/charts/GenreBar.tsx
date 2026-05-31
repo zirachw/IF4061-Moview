@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import Plot from '../../utils/PlotWrapper'
 import type { AppData, FilterState } from '../../types'
-import { filterAgg, genreColor, fmtMoney, fmtCount, DARK_LAYOUT, DARK_AXIS, PLOTLY_CFG } from '../../utils/chartHelpers'
+import { filterAgg, genreColor, fmtMoney, DARK_LAYOUT, DARK_AXIS, PLOTLY_CFG } from '../../utils/chartHelpers'
 import ChartPanel from '../ui/ChartPanel'
 
 interface Props { data: AppData; filter: FilterState }
@@ -27,7 +27,7 @@ export default function GenreBar({ data, filter }: Props) {
       .slice(-12)
   }, [data.genreAgg, filter, metric])
 
-  const labels = metric === 'films' ? fmtCount : fmtMoney
+  const labels = fmtMoney
 
   return (
     <ChartPanel

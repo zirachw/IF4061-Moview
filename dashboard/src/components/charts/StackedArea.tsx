@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import Plot from '../../utils/PlotWrapper'
 import type { AppData, FilterState } from '../../types'
-import { filterAgg, genreColor, fmtMoney, DARK_AXIS, PLOTLY_CFG } from '../../utils/chartHelpers'
+import { filterAgg, genreColor, DARK_AXIS, PLOTLY_CFG } from '../../utils/chartHelpers'
 import ChartPanel from '../ui/ChartPanel'
 
 interface Props { data: AppData; filter: FilterState }

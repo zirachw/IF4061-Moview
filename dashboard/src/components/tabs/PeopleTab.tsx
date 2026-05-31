@@ -1,6 +1,4 @@
 import type { AppData, FilterState } from '../../types'
-import Sankey from '../charts/Sankey'
-import GenreDonut from '../charts/GenreDonut'
 import StudioTreemap from '../charts/StudioTreemap'
 import DirectorBar from '../charts/DirectorBar'
 

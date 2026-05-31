@@ -103,7 +103,6 @@ export default function Clapperboard({ activeTab, onTabChange }: Props) {
       <div style={{ flex: 1, display: 'flex', overflow: 'visible', position: 'relative' }}>
         {TABS.map(({ id, label }, i) => {
           const isActive = id === activeTab
-          const isFirst = i === 0
           const isLast = i === TABS.length - 1
           return (
             <button
