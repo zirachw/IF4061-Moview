@@ -101,7 +101,7 @@ export default function BubblePlot({ data, filter, mode }: Props) {
       customdata: entries.map(([, v]) => v.fc),
       marker: {
         color: entries.map(([g]) => genreColor(g)),
-        size: entries.map(([, v]) => Math.max(10, Math.sqrt(v.fc) * 3.5)),
+        size: entries.map(([, v]) => Math.max(6, Math.sqrt(v.fc) * 2.5)),
         sizemode: 'diameter' as const,
         opacity: 0.82,
         line: { color: 'rgba(0,0,0,0.4)', width: 0.5 },

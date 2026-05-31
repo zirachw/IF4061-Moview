@@ -69,7 +69,42 @@ function TabJumpButton({ onClick }: { onClick: () => void }) {
   )
 }
 
+function useMobile(breakpoint = 900) {
+  const [isMobile, setIsMobile] = useState(() => window.innerWidth < breakpoint)
+  useEffect(() => {
+    const mq = window.matchMedia(`(max-width: ${breakpoint - 1}px)`)
+    const handler = (e: MediaQueryListEvent) => setIsMobile(e.matches)
+    mq.addEventListener('change', handler)
+    return () => mq.removeEventListener('change', handler)
+  }, [breakpoint])
+  return isMobile
+}
+
+function MobileWall() {
+  return (
+    <div style={{
+      position: 'fixed', inset: 0, zIndex: 9999,
+      backgroundColor: '#0D0B09',
+      display: 'flex', flexDirection: 'column',
+      alignItems: 'center', justifyContent: 'center',
+      gap: '1.5rem', padding: '2rem', textAlign: 'center',
+    }}>
+      <span style={{ fontFamily: '"Instrument Serif", serif', fontSize: '2.5rem', color: '#D4AF37', letterSpacing: '0.06em' }}>
+        MOVIEW
+      </span>
+      <span style={{ fontFamily: 'Inter, sans-serif', fontWeight: 700, fontSize: '1.1rem', color: '#F5F0E8', letterSpacing: '0.04em' }}>
+        Desktop Only
+      </span>
+      <span style={{ fontFamily: 'Inter, sans-serif', fontSize: '0.85rem', color: '#9E9589', maxWidth: '22rem', lineHeight: 1.6 }}>
+        This dashboard is not supported on mobile or small screens.
+        Please open it on a desktop or laptop browser.
+      </span>
+    </div>
+  )
+}
+
 export default function App() {
+  const isMobile = useMobile()
   const [filter, setFilter] = useState<FilterState>(DEFAULT_FILTER)
   const [activeTab, setActiveTab] = useState<TabId>('popularity')
   const [mountedTabs, setMountedTabs] = useState<Set<TabId>>(new Set<TabId>(['popularity']))
@@ -360,6 +395,8 @@ export default function App() {
     }
   }
 
+
+  if (isMobile) return <MobileWall />
 
   return (
     <main>
