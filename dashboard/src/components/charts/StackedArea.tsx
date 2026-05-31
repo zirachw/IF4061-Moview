@@ -82,7 +82,7 @@ export default function StackedArea({ data, filter }: Props) {
             tickformat: '$~s',
             gridcolor: 'rgba(255,255,255,0.05)',
           },
-          hovermode: 'x unified',
+          hovermode: 'closest',
         }}
         config={PLOTLY_CFG}
         style={{ width: '100%', height: '100%' }}

@@ -116,6 +116,7 @@ export type PeopleEntityType = 'director' | 'studio' | 'cast'
 export interface PeopleAggEntry extends MetricAgg {
   entity_type: PeopleEntityType
   name: string
+  genre: string | null
 }
 
 export interface GenrePairAggEntry extends MetricAgg {

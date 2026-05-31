@@ -1,6 +1,7 @@
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import type { AppData, FilterState } from '../../types'
 import { getScope } from '../../hooks/useFilter'
+import { genreColor } from '../../utils/chartHelpers'
 import ChartPanel from '../ui/ChartPanel'
 
 interface Props { data: AppData; filter: FilterState }
@@ -14,20 +15,38 @@ const TIERS = [
 
 const GRID = 10
 
+const SELECT_STYLE: React.CSSProperties = {
+  backgroundColor: 'rgba(20,20,20,0.85)',
+  border: '1px solid rgba(255,255,255,0.12)',
+  borderRadius: '0.25rem',
+  padding: '0.15rem 0.35rem',
+  fontFamily: '"JetBrains Mono", monospace',
+  fontSize: '0.7rem',
+  cursor: 'pointer',
+  outline: 'none',
+  maxWidth: '9rem',
+}
+
 export default function RadialBar({ data, filter }: Props) {
-  const { counts, total } = useMemo(() => {
+  const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
+
+  const { counts, total, genres } = useMemo(() => {
     const [yMin, yMax] = filter.yearRange
     const { scope_type, scope_id } = getScope(filter)
-    const movies = data.topMovies.filter(m =>
+    const allMovies = data.topMovies.filter(m =>
       m.scope_type === scope_type && m.scope_id === scope_id &&
       m.year !== null && m.year >= yMin && m.year <= yMax && m.vote_average !== null,
     )
+    const genres = [...new Set(allMovies.map(m => m.primary_genre ?? 'Other'))].sort()
+    const movies = selectedGenre
+      ? allMovies.filter(m => (m.primary_genre ?? 'Other') === selectedGenre)
+      : allMovies
     const counts = TIERS.map(t => ({
       ...t,
       count: movies.filter(m => m.vote_average! >= t.min && m.vote_average! < t.max).length,
     }))
-    return { counts, total: movies.length }
-  }, [data.topMovies, filter.yearRange])
+    return { counts, total: movies.length, genres }
+  }, [data.topMovies, filter, selectedGenre])
 
   const cells = GRID * GRID
   const tierCells = counts.map((t, i) => ({
@@ -42,7 +61,21 @@ export default function RadialBar({ data, filter }: Props) {
   while (flat.length < cells) flat.push('#1A1512')
 
   return (
-    <ChartPanel title="Rating Tiers">
+    <ChartPanel
+      title="Rating Tiers"
+      right={
+        genres.length > 0 ? (
+          <select
+            value={selectedGenre ?? ''}
+            onChange={e => setSelectedGenre(e.target.value || null)}
+            style={{ ...SELECT_STYLE, color: selectedGenre ? genreColor(selectedGenre) : 'var(--text-secondary)' }}
+          >
+            <option value="">All Genres</option>
+            {genres.map(g => <option key={g} value={g}>{g}</option>)}
+          </select>
+        ) : undefined
+      }
+    >
       <div style={{
         display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
         height: '100%', gap: '0.5rem', padding: '0.5rem',

@@ -6,10 +6,24 @@ import ChartPanel from '../ui/ChartPanel'
 
 interface Props { data: AppData; filter: FilterState }
 
+type Metric = 'films' | 'revenue' | 'profit'
+
+const METRIC_LABELS: Record<Metric, string> = { films: 'Films', revenue: 'Rev', profit: 'Profit' }
+
+const BTN = (active: boolean): React.CSSProperties => ({
+  fontFamily: '"JetBrains Mono", monospace', fontSize: '0.58rem',
+  padding: '0.1rem 0.35rem', borderRadius: '0.18rem',
+  border: `1px solid ${active ? '#D4AF3788' : 'rgba(255,255,255,0.12)'}`,
+  cursor: 'pointer',
+  backgroundColor: active ? '#D4AF3722' : 'transparent',
+  color: active ? '#D4AF37' : '#9E9589',
+})
+
 export default function BumpChart({ data, filter }: Props) {
   const svgRef = useRef<SVGSVGElement>(null)
   const containerRef = useRef<HTMLDivElement>(null)
   const [dims, setDims] = useState({ w: 300, h: 200 })
+  const [metric, setMetric] = useState<Metric>('films')
 
   const { periods, ranks } = useMemo(() => {
     const rows = filterAgg(data.genreAgg, filter).filter(r => r.genre !== null)
@@ -23,7 +37,8 @@ export default function BumpChart({ data, filter }: Props) {
       const p = bucket(r.year)
       if (!byPeriodGenre.has(p)) byPeriodGenre.set(p, new Map())
       const gMap = byPeriodGenre.get(p)!
-      gMap.set(r.genre!, (gMap.get(r.genre!) ?? 0) + r.film_count)
+      const val = metric === 'films' ? r.film_count : metric === 'revenue' ? r.revenue_sum : r.profit_sum
+      gMap.set(r.genre!, (gMap.get(r.genre!) ?? 0) + val)
     }
 
     const periodList = [...byPeriodGenre.keys()].sort((a, b) => a - b)
@@ -54,7 +69,7 @@ export default function BumpChart({ data, filter }: Props) {
       .slice(0, 12)
 
     return { periods: periodList, ranks: rankMap, topGenres }
-  }, [data.genreAgg, filter]) as { periods: number[]; ranks: Map<string, Array<{ period: number; rank: number }>> }
+  }, [data.genreAgg, filter, metric]) as { periods: number[]; ranks: Map<string, Array<{ period: number; rank: number }>> }
 
   useEffect(() => {
     if (!containerRef.current) return
@@ -154,7 +169,18 @@ export default function BumpChart({ data, filter }: Props) {
   }, [dims, periods, ranks])
 
   return (
-    <ChartPanel title="Genre Rank">
+    <ChartPanel
+      title="Genre Rank"
+      right={
+        <div style={{ display: 'flex', gap: '0.15rem' }}>
+          {(['films', 'revenue', 'profit'] as Metric[]).map(m => (
+            <button key={m} type="button" onClick={() => setMetric(m)} style={BTN(metric === m)}>
+              {METRIC_LABELS[m]}
+            </button>
+          ))}
+        </div>
+      }
+    >
       <div ref={containerRef} style={{ width: '100%', height: '100%' }}>
         <svg ref={svgRef} style={{ width: '100%', height: '100%' }} />
       </div>

@@ -9,26 +9,49 @@ interface Props { data: AppData; filter: FilterState }
 
 type Metric = 'popularity' | 'rating' | 'votes'
 
+const SELECT_STYLE: React.CSSProperties = {
+  backgroundColor: 'rgba(20,20,20,0.85)',
+  border: '1px solid rgba(255,255,255,0.12)',
+  borderRadius: '0.25rem',
+  padding: '0.15rem 0.35rem',
+  fontFamily: '"JetBrains Mono", monospace',
+  fontSize: '0.7rem',
+  cursor: 'pointer',
+  outline: 'none',
+  maxWidth: '9rem',
+}
+
 export default function TopFilmsBar({ data, filter }: Props) {
   const [metric, setMetric] = useState<Metric>('popularity')
+  const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
 
-  const bars = useMemo(() => {
+  const { bars, genres } = useMemo(() => {
     const [yMin, yMax] = filter.yearRange
     const { scope_type, scope_id } = getScope(filter)
-    const movies = data.topMovies.filter(m =>
+    const allMovies = data.topMovies.filter(m =>
       m.scope_type === scope_type && m.scope_id === scope_id &&
       m.year !== null && m.year >= yMin && m.year <= yMax,
     )
+
+    const genreList = [...new Set(allMovies.map(m => m.primary_genre ?? 'Other'))].sort()
+
+    const movies = selectedGenre
+      ? allMovies.filter(m => (m.primary_genre ?? 'Other') === selectedGenre)
+      : allMovies
+
     const getValue = (m: typeof movies[0]) =>
       metric === 'popularity' ? (m.popularity ?? 0)
       : metric === 'rating' ? (m.vote_average ?? 0)
       : m.vote_count
-    return movies
+
+    const topBars = movies
       .filter(m => getValue(m) > 0)
       .sort((a, b) => getValue(b) - getValue(a))
       .slice(0, 15)
       .reverse()
-  }, [data.topMovies, filter, metric])
+
+    return { bars: topBars, genres: genreList }
+  }, [data.topMovies, filter, metric, selectedGenre])
 
   const xLabel = metric === 'popularity' ? 'Popularity Score'
     : metric === 'rating' ? 'Avg Rating'
@@ -37,6 +60,18 @@ export default function TopFilmsBar({ data, filter }: Props) {
   return (
     <ChartPanel
       title="Top Films"
+      right={
+        genres.length > 0 ? (
+          <select
+            value={selectedGenre ?? ''}
+            onChange={e => setSelectedGenre(e.target.value || null)}
+            style={{ ...SELECT_STYLE, color: selectedGenre ? genreColor(selectedGenre) : 'var(--text-secondary)' }}
+          >
+            <option value="">All Genres</option>
+            {genres.map(g => <option key={g} value={g}>{g}</option>)}
+          </select>
+        ) : undefined
+      }
       metric={metric}
       metrics={[
         { value: 'popularity', label: 'Pop.' },

@@ -1,12 +1,10 @@
 import { useMemo, useState } from 'react'
 import Plot from '../../utils/PlotWrapper'
 import type { AppData, FilterState, PeopleEntityType } from '../../types'
-import { filterAgg, fmtMoney, fmtCount, DARK_AXIS, PLOTLY_CFG } from '../../utils/chartHelpers'
+import { filterAgg, fmtCount, genreColor, DARK_AXIS, PLOTLY_CFG } from '../../utils/chartHelpers'
 import ChartPanel from '../ui/ChartPanel'
 
 interface Props { data: AppData; filter: FilterState }
-
-type Metric = 'films' | 'revenue' | 'profit'
 
 const ENTITY_COLORS: Record<string, string> = {
   director: '#D4AF37',
@@ -23,28 +21,38 @@ const FILTER_BTN = (active: boolean, color: string): React.CSSProperties => ({
   color: active ? color : '#9E9589',
 })
 
-export default function DirectorBar({ data, filter }: Props) {
-  const [metric, setMetric] = useState<Metric>('films')
-  const [entityType, setEntityType] = useState<PeopleEntityType>('director')
+const SELECT_STYLE: React.CSSProperties = {
+  backgroundColor: 'rgba(20,20,20,0.85)',
+  border: '1px solid rgba(255,255,255,0.12)',
+  borderRadius: '0.25rem',
+  padding: '0.15rem 0.35rem',
+  fontFamily: '"JetBrains Mono", monospace',
+  fontSize: '0.7rem',
+  cursor: 'pointer',
+  outline: 'none',
+  maxWidth: '9rem',
+}
 
-  const bars = useMemo(() => {
-    const rows = filterAgg(data.peopleAgg, filter).filter(r => r.entity_type === entityType)
+export default function DirectorBar({ data, filter }: Props) {
+  const [entityType, setEntityType] = useState<PeopleEntityType>('director')
+  const [selectedGenre, setSelectedGenre] = useState<string | null>(null)
+
+  const { bars, genres } = useMemo(() => {
+    const allRows = filterAgg(data.peopleAgg, filter).filter(r => r.entity_type === entityType)
+    const genres = [...new Set(allRows.map(r => r.genre).filter(Boolean) as string[])].sort()
+    const rows = selectedGenre ? allRows.filter(r => r.genre === selectedGenre) : allRows
     const entityMap = new Map<string, number>()
     for (const r of rows) {
-      const val = metric === 'films' ? r.film_count
-        : metric === 'revenue' ? r.revenue_sum
-        : r.profit_sum
-      entityMap.set(r.name, (entityMap.get(r.name) ?? 0) + val)
+      entityMap.set(r.name, (entityMap.get(r.name) ?? 0) + r.film_count)
     }
-    return [...entityMap.entries()]
+    const bars = [...entityMap.entries()]
       .filter(([, v]) => v > 0)
       .sort((a, b) => a[1] - b[1])
       .slice(-15)
-  }, [data.peopleAgg, filter, metric, entityType])
+    return { bars, genres }
+  }, [data.peopleAgg, filter, entityType, selectedGenre])
 
   const color = ENTITY_COLORS[entityType]
-  const fmt = metric === 'films' ? fmtCount : fmtMoney
-  const metricColor = '#D4AF37'
 
   return (
     <ChartPanel
@@ -53,21 +61,23 @@ export default function DirectorBar({ data, filter }: Props) {
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
           <div style={{ display: 'flex', gap: '0.15rem' }}>
             {(['director', 'studio', 'cast'] as PeopleEntityType[]).map(et => (
-              <button key={et} type="button" onClick={() => setEntityType(et)}
+              <button key={et} type="button" onClick={() => { setEntityType(et); setSelectedGenre(null) }}
                 style={FILTER_BTN(entityType === et, ENTITY_COLORS[et])}>
                 {et}
               </button>
             ))}
           </div>
           <span style={{ color: 'rgba(255,255,255,0.15)', fontSize: '0.7rem', userSelect: 'none' }}>│</span>
-          <div style={{ display: 'flex', gap: '0.15rem' }}>
-            {(['films', 'revenue', 'profit'] as Metric[]).map(m => (
-              <button key={m} type="button" onClick={() => setMetric(m)}
-                style={FILTER_BTN(metric === m, metricColor)}>
-                {m === 'films' ? 'Films' : m === 'revenue' ? 'Rev' : 'Profit'}
-              </button>
-            ))}
-          </div>
+          {genres.length > 0 && (
+            <select
+              value={selectedGenre ?? ''}
+              onChange={e => setSelectedGenre(e.target.value || null)}
+              style={{ ...SELECT_STYLE, color: selectedGenre ? genreColor(selectedGenre) : 'var(--text-secondary)' }}
+            >
+              <option value="">All Genres</option>
+              {genres.map(g => <option key={g} value={g}>{g}</option>)}
+            </select>
+          )}
         </div>
       }
     >
@@ -82,7 +92,7 @@ export default function DirectorBar({ data, filter }: Props) {
             opacity: 0.8,
             line: { color: 'rgba(0,0,0,0.3)', width: 0.5 },
           },
-          text: bars.map(([, v]) => fmt(v)),
+          text: bars.map(([, v]) => fmtCount(v)),
           textposition: 'outside',
           textfont: { color: '#9E9589', size: 8 },
           cliponaxis: false,

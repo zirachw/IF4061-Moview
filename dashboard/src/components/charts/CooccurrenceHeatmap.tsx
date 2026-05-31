@@ -59,9 +59,10 @@ export default function CooccurrenceHeatmap({ data, filter }: Props) {
           paper_bgcolor: 'transparent',
           plot_bgcolor:  'transparent',
           font: { family: 'Inter, sans-serif', color: '#9E9589', size: 9 },
-          margin: { l: 80, r: 8, t: 8, b: 80 },
+          margin: { l: 80, r: 8, t: 80, b: 8 },
           xaxis: {
-            tickfont: { color: '#9E9589', size: 8 }, tickangle: -40,
+            tickfont: { color: '#9E9589', size: 8 }, tickangle: 40,
+            side: 'top',
             showgrid: false, linecolor: 'rgba(255,255,255,0.08)',
             color: '#9E9589', automargin: true,
           },
