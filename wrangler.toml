@@ -1,0 +1,8 @@
+name = "if4061-moview"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "dashboard/dist"
+
+[[d1_databases]]
+binding       = "DB"
+database_name = "moview-db"
+database_id   = "f00e2419-51be-4743-924c-acdfd523d7ac"
