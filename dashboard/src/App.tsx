@@ -413,7 +413,10 @@ export default function App() {
           setShowAbout(false)
         }}
         showAbout={showAbout}
-        onAboutToggle={() => setShowAbout(v => !v)}
+        onAboutToggle={() => setShowAbout(v => {
+          if (!v) smoothSnapTo(0)
+          return !v
+        })}
       />
 
       <section id="hero">
